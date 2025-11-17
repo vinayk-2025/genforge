@@ -1,18 +1,18 @@
 ---
-title: Student Notes � Day 01: Foundations, Orientation & Environment Setup
-author: Satya Prakash Nigam
+title: "Student Notes — Day 01: Foundations, Orientation & Environment Setup"
+author: "Satya Prakash Nigam"
 layout: post
 permalink: /student-notes/day01/
 ---
 
-# Generative AI, Prompt Engineering & Agentic Systems � Student Notes  
-**Day 01 / Lecture 01: Foundations, Orientation & Environment Setup**  
+# Generative AI, Prompt Engineering & Agentic Systems — Student Notes  
+**Day 01 / Lecture 01: Foundations, Orientation & Environment Setup**
 
 ---
 
-## Scope of This Session
+## 🔶 Scope of This Session
 
-This first session introduces the GenForge course. You�ll explore:
+This first session introduces the GenForge course. You’ll explore:
 
 - Core distinctions between GenAI and traditional AI  
 - What makes an AI agentic  
@@ -21,11 +21,11 @@ This first session introduces the GenForge course. You�ll explore:
 - How to set up and validate your local development environment  
 - Prompt engineering styles and delivery methods  
 - How to deploy your first GenAI app  
-- Professional habits around reproducibility and documentation
+- Professional habits around reproducibility and documentation  
 
 ---
 
-## Learning Objectives
+## ✅ Learning Objectives
 
 By the end of this session, you should be able to:
 
@@ -37,11 +37,11 @@ By the end of this session, you should be able to:
 - Apply prompt styles: zero-shot, few-shot, chain-of-thought, instructional, role-based  
 - Deploy a GenAI app using Streamlit Cloud  
 - Maintain GitHub hygiene and reproducibility using `requirements.txt`  
-- Document workflows and share via GitHub Pages
+- Document workflows and share via GitHub Pages  
 
 ---
 
-## Key Concepts
+## 🧠 Key Concepts
 
 - GenAI vs traditional AI  
 - Agentic AI = LLMs + Goals + Tools + Autonomy  
@@ -50,11 +50,11 @@ By the end of this session, you should be able to:
 - Reproducibility and version control hygiene  
 - Hosting platforms: Streamlit Cloud, GitHub Pages  
 - CLI vs GUI experimentation strategies  
-- Folder hygiene and structured workflows
+- Folder hygiene and structured workflows  
 
 ---
 
-## Tools Introduced & Validated
+## 🛠️ Tools Introduced & Validated
 
 | Tool / Platform     | Purpose                                      |
 |---------------------|----------------------------------------------|
@@ -73,7 +73,7 @@ By the end of this session, you should be able to:
 
 ---
 
-## Prompt Styles
+## 🎨 Prompt Styles
 
 | Style           | Description                          |
 |-----------------|--------------------------------------|
@@ -85,7 +85,7 @@ By the end of this session, you should be able to:
 
 ---
 
-## Prompt Delivery Methods
+## 🚀 Prompt Delivery Methods
 
 | Method         | Description                          |
 |----------------|--------------------------------------|
@@ -96,7 +96,7 @@ By the end of this session, you should be able to:
 
 ---
 
-## Scripts and Workflows
+## ⚙️ Scripts and Workflows
 
 | Script                      | Purpose                                      |
 |-----------------------------|----------------------------------------------|
@@ -105,7 +105,7 @@ By the end of this session, you should be able to:
 | `test_git_config.sh`        | Verify Git identity and GitHub linking       |
 | `check_mysql_connection.php`| Test MySQL connectivity via XAMPP            |
 | `test_ollama.py`            | Run `tinyllama` locally via Ollama           |
-| `test_langchain_prompt.py`  | Chain prompt ? LLM using LangChain           |
+| `test_langchain_prompt.py`  | Chain prompt with LLM using LangChain        |
 | `test_langchain_fastapi.py` | Wrap LangChain in FastAPI                    |
 | `test_langchain_streamlit.py` | Streamlit frontend for LangChain chain     |
 | `test_gemini_cli.sh`        | Run Gemini CLI with sample prompt            |
@@ -115,7 +115,7 @@ By the end of this session, you should be able to:
 
 ---
 
-## Exercises to Complete
+## ⚡ Exercises to Complete
 
 - Set up and validate your Python, Node.js, and local LLM runtimes  
 - Run all validation scripts and confirm environment readiness  
@@ -125,11 +125,11 @@ By the end of this session, you should be able to:
 - Create a reproducible folder with `requirements.txt` and `README.md`  
 - Maintain folder hygiene and commit changes to GitHub  
 - Share your prompt experiments via GitHub Pages  
-- Submit screenshots via LMS or GitHub issue tracker
+- Submit screenshots via LMS or GitHub issue tracker  
 
 ---
 
-## References
+## 📑 References
 
 - [Streamlit Documentation](https://docs.streamlit.io/)  
 - [LangChain Quickstart](https://docs.langchain.com/docs/get-started/quickstart)  
@@ -139,38 +139,40 @@ By the end of this session, you should be able to:
 - [FastAPI Docs](https://fastapi.tiangolo.com/)  
 - [XAMPP](https://www.apachefriends.org/index.html)  
 - [GitHub Pages](https://pages.github.com/)  
-- [GitHub Student Guide](https://docs.github.com/en/get-started/quickstart)
+- [GitHub Student Guide](https://docs.github.com/en/get-started/quickstart)  
 
 ---
 
-## Summary
+## 📌 Summary
 
-- You�ve understood the foundations of GenAI and agentic AI  
+- You’ve understood the foundations of GenAI and agentic AI  
 - Your local environment is validated and ready for experimentation  
-- You�ve practiced prompt engineering styles and delivery workflows  
-- You�ve deployed and documented your first GenAI app  
-- You�ve begun cultivating reproducible, professional habits for agentic workflows
+- You’ve practiced prompt engineering styles and delivery workflows  
+- You’ve deployed and documented your first GenAI app  
+- You’ve begun cultivating reproducible, professional habits for agentic workflows  
 
 ---
 
-## ?? License
+## © License
+
 This repository is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
 You may share and adapt the materials with proper attribution, but **commercial use is prohibited**.  
-?? [License Details](https://creativecommons.org/licenses/by-nc/4.0)
+🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
 
 ---
 
 Curated by **Satya Prakash Nigam**  
-Independent AI Consultant � Fractional CTO � Product Architect � Technical Enablement Strategist  
-?? Personal: [spnigam.in](https://spnigam.in)  
-?? Platform: [aialchemyhub.in](https://www.aialchemyhub.in)  
-?? YouTube: [AI Alchemy Hub](https://www.youtube.com/@AIAlchemyHub-zx6lz)  
-?? Community (Coming Soon): [community.aialchemyhub.in](https://community.aialchemyhub.in)  
-?? Zulip: [aialchemyhub.zulipchat.com](https://aialchemyhub.zulipchat.com)  
-?? Email: spnigam25@yahoo.com  
-?? LinkedIn: [linkedin.com/in/spn25](https://www.linkedin.com/in/spn25)  
-?? GitHub: [github.com/satya25](https://github.com/satya25)  
-?? Hugging Face: [huggingface.co/satya25](https://huggingface.co/satya25)
+Independent AI Consultant · Fractional CTO · Product Architect · Technical Enablement Strategist  
 
-**GenForge � Forging the future of agentic AI**  
+🌐 Personal: [spnigam.in](https://spnigam.in)  
+📡 Platform: [aialchemyhub.in](https://www.aialchemyhub.in)  
+▶️ YouTube: [AI Alchemy Hub](https://www.youtube.com/@AIAlchemyHub-zx6lz)  
+👥 Community (Coming Soon): [community.aialchemyhub.in](https://community.aialchemyhub.in)  
+💬 Zulip: [aialchemyhub.zulipchat.com](https://aialchemyhub.zulipchat.com)  
+✉️ Email: spnigam25@yahoo.com  
+🔗 LinkedIn: [linkedin.com/in/spn25](https://www.linkedin.com/in/spn25)  
+💻 GitHub: [github.com/satya25](https://github.com/satya25)  
+🤗 Hugging Face: [huggingface.co/satya25](https://huggingface.co/satya25)  
+
+**GenForge — Forging the future of agentic AI**  
 _Last updated: November 2025_
