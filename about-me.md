@@ -1,5 +1,4 @@
 ---
-title: "About the Instructor - Satya Prakash Nigam"
 author: "Satya Prakash Nigam"
 layout: post
 permalink: /about-me/

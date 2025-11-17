@@ -1,6 +1,5 @@
 
 ---
-title: "About This Course"
 author: "Satya Prakash Nigam"
 layout: post
 permalink: /about-this-course/
