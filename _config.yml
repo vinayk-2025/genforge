@@ -11,7 +11,7 @@ color_scheme: light
 plugins:
   - jekyll-remote-theme
 
-navigation:
+nav:
   - title: Home
     url: /
   - title: About the Instructor
@@ -47,3 +47,9 @@ navigation:
       # Uncomment if storage-requirements.pdf is exported
       # - title: Storage Requirements (PDF)
       #   url: /storage-requirements.pdf
+
+sass:
+  style: compressed
+
+include:
+  - assets/css/custom.scss
