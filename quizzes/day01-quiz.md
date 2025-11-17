@@ -1,6 +1,6 @@
 ---
-title: Quiz — Lecture 01: Foundations, Orientation & Environment Setup
-author: Satya Prakash Nigam
+title: "Day 01: Quiz on Foundations, Orientation & Environment Setup"
+author: "Satya Prakash Nigam"
 layout: post
 permalink: /quizzes/day01-quiz/
 ---
