@@ -1,0 +1,40 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# Environment files
+.env
+.venv/
+*.egg-info/
+*.log
+
+# Jupyter and Streamlit
+.ipynb_checkpoints/
+.streamlit/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Deployment artifacts
+slide-decks/*.pptx
+
+# Temp folders (excluded from sync)
+proposal/
+temp/
+
+# Instructor-only and presentation folders
+slide-decks/
+teacher-addition/
+
+# Python utilities and other scripts for internal usage
+utilities/
+
+# Legacy or unused assets
+banner.jpg
+md2pdf.css

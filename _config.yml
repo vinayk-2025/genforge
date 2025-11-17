@@ -1,0 +1,42 @@
+# Site configuration for GenForge (Jekyll + just-the-docs theme)
+
+title: "GenForge — GenAI & Agentic AI Course"
+description: "Official repository for GenForge — Value-Added Course on Generative AI, Agentic AI & Prompt Engineering"
+theme: just-the-docs
+
+navigation:
+  - title: Home
+    url: /
+  - title: About the Instructor
+    url: /about-me/
+  - title: Course Overview
+    url: /about-this-course/
+  - title: Storage Requirements
+    url: /storage-requirements/
+  - title: Daily Schedule
+    url: /days/
+  - title: Lecture Notes
+    url: /lectures/
+  - title: Labs
+    url: /labs/
+  - title: Student Notes
+    url: /student-notes/
+  - title: Quizzes
+    url: /quizzes/
+  - title: Glossary
+    url: /glossary/
+  - title: Capstone Templates
+    url: /capstone-templates/
+  - title: Presentations
+    url: /presentations/
+  - title: Slide Decks
+    url: /slide-decks/
+  - title: PDFs
+    children:
+      - title: Student Notes (PDF)
+        url: /pdf-student-notes/
+      - title: Quizzes (PDF)
+        url: /pdf-quizzes/
+      # Uncomment if storage-requirements.pdf is exported
+      # - title: Storage Requirements (PDF)
+      #   url: /storage-requirements.pdf

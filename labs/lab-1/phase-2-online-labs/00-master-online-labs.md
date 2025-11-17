@@ -1,0 +1,71 @@
+---
+title: "00 Master Online Labs Checklist"
+description: "Master checklist for Phase 2 online labs exploring GenAI tools via free web interfaces"
+date: 2025-11-17
+author: Satya Prakash Nigam
+tags: [GenAI, Online Labs, Phase 2, Checklist, Web Interfaces]
+layout: post
+permalink: /labs/lab-1/phase-2-online-labs/00-master-online-labs/
+---
+
+# 🌐 Phase 2 Online Labs: Master Checklist
+This master checklist provides a structured entry point into **Phase 2 online labs**, ensuring students can navigate registrations, hosted LLMs, and prompt‑driven experiments with clarity.
+
+---
+
+## 🎯 Objectives
+- Register for mandatory and optional online platforms  
+- Explore hosted LLMs, image generators, and code generators  
+- Compare outputs across multiple tools for accuracy, style, and usability  
+- Reinforce ethical awareness and prompt engineering strategies  
+
+---
+
+## 📂 Lab Files
+
+| Lab | Purpose | Link |
+|-----|---------|------|
+| **Online Registrations Guide** | Register for GitHub, Hugging Face, Kaggle, Streamlit Cloud, Gemini, and open‑source ecosystems | [online-registrations.md](./online-registrations.md) |
+| **Online LLM Web Interfaces** | Explore hosted LLMs (Copilot, Gemini, Claude, ChatGPT, Perplexity, Poe, Mistral, DeepSeek) | [online-llm-web-interfaces.md](./online-llm-web-interfaces.md) |
+| **Online LLM Lab** | Comparative prompting across text, image, and code generation domains | [online-llm-lab.md](./online-llm-lab.md) |
+| **Online Code Generator Lab** | Experiment with browser‑based code generation tools (Vibe Coder, Devv.ai, ZZZCode) | [online-code-generator-lab.md](./online-code-generator-lab.md) |
+| **Online Image Generator Lab** | Explore free image generation platforms (Vheer, FreeForAI, Mage.Space, Leonardo.Ai) | [online-image-generator-lab.md](./online-image-generator-lab.md) |
+
+---
+
+## 🧑‍🏫 Instructor Notes
+- Encourage reproducibility: log prompts and outputs in markdown tables  
+- Highlight differences in model behaviour across platforms  
+- Reinforce ethical awareness: copyright, bias, hallucination risks  
+- Use these labs to introduce multimodal prompt engineering and agentic workflows  
+
+---
+
+## 🧪 Outcomes
+- Students gain hands‑on experience with **hosted GenAI platforms**  
+- Learn to compare outputs across text, image, and code domains  
+- Build awareness of **prompt clarity, evaluation heuristics, and ethical framing**  
+- Ready to transition into **Phase 3 local labs** for reproducible, offline workflows  
+
+---
+
+## License
+This checklist is licensed under **CC BY-NC 4.0**  
+You may share and adapt with attribution — but commercial use is prohibited  
+🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
+
+---
+
+Curated by **Satya Prakash Nigam**  
+Independent AI Consultant · Fractional CTO · Product Architect · Technical Enablement Strategist  
+🌐 Personal: [spnigam.in](https://spnigam.in)  
+🧪 Platform: [aialchemyhub.in](https://www.aialchemyhub.in)  
+📺 YouTube: [AI Alchemy Hub](https://www.youtube.com/@AIAlchemyHub-zx6lz)  
+💬 Community (Coming Soon): [community.aialchemyhub.in](https://community.aialchemyhub.in)  
+💬 Zulip: [aialchemyhub.zulipchat.com](https://aialchemyhub.zulipchat.com)  
+📧 Email: spnigam25@yahoo.com  
+🔗 LinkedIn: [linkedin.com/in/spn25](https://www.linkedin.com/in/spn25)  
+💻 GitHub: [github.com/satya25](https://github.com/satya25)  
+🤖 Hugging Face: [huggingface.co/satya25](https://huggingface.co/satya25)  
+
+_Last updated: November 2025_
