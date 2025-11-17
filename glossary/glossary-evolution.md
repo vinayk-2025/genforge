@@ -1,7 +1,6 @@
 ---
 title: "Glossary – Evolution of AI to Agentic Systems"
 description: "Conceptual arc from symbolic AI to GenAI, Agentic AI, and emerging autonomous systems"
-date: 2025-11-10
 author: Satya Prakash Nigam
 tags: [AI, GenAI, Agentic AI, Autonomous Systems, AGI, Evolution]
 layout: post

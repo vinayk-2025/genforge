@@ -4,7 +4,6 @@ author: Satya Prakash Nigam
 course: "GenAI and Agentic Systems (Value-Added Series)"
 institution: "BMS College of Engineering, Bengaluru"
 license: "CC BY-NC 4.0"
-date: 2025-11-17
 tags: [Glossary, GenAI, Agentic Systems, Course Index]
 layout: post
 permalink: /glossary/

@@ -1,7 +1,6 @@
 ---
 title: "Glossary – Multimodal AI Concepts"
 description: "Terminology and examples for AI systems that integrate text, image, audio, and video inputs"
-date: 2025-17-10
 author: Satya Prakash Nigam
 tags: [Multimodal AI, GenAI, Image-to-Text, Text-to-Image, Audio, Video, Cross-Modal]
 layout: post

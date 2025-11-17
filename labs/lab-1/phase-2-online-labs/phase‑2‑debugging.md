@@ -1,7 +1,6 @@
 ---
 title: "00 Master Online Labs Checklist"
 description: "Master checklist for Phase 2 online labs exploring GenAI tools via free web interfaces"
-date: 2025-11-17
 author: Satya Prakash Nigam
 tags: [GenAI, Online Labs, Phase 2, Checklist, Web Interfaces]
 layout: post

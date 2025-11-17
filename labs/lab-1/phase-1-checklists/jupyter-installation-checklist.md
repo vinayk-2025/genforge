@@ -2,7 +2,6 @@
 ---
 title: "Jupyter Installation Checklist"
 description: "Guide to install and launch Jupyter Notebook and Jupyter Lab for GenAI experimentation"
-date: 2025-11-17
 author: Satya Prakash Nigam
 tags: [GenAI, Environment Setup, Jupyter, Notebook, Lab, Installation]
 layout: post

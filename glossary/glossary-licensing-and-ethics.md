@@ -1,7 +1,6 @@
 ---
 title: "Glossary – Licensing, Bias, and Ethical AI"
 description: "Key terms for understanding open-source licensing, model bias, adversarial robustness, and ethical alignment in GenAI"
-date: 2025-17-10
 author: Satya Prakash Nigam
 tags: [AI Ethics, Licensing, Bias, XAI, Value Alignment, Adversarial Robustness, CC BY-NC]
 layout: post

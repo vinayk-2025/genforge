@@ -1,7 +1,6 @@
 ---
 title: "Phase 1 — Environment Setup README"
 description: "Overview and objectives for Phase 1 environment setup labs"
-date: 2025-11-17
 author: Satya Prakash Nigam
 tags: [GenAI, Environment Setup, Installation, Checklist, Reproducibility]
 layout: post

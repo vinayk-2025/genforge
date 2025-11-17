@@ -2,7 +2,6 @@
 ---
 title: "Python Installation Checklist (Python 3.11.x + Requirements)"
 description: "Guide to install Python 3.11.x, set up a virtual environment, install packages, and verify GenAI development setup"
-date: 2025-11-17
 author: Satya Prakash Nigam
 tags: [GenAI, Environment Setup, Python, Virtual Environment, Installation, Requirements]
 layout: post

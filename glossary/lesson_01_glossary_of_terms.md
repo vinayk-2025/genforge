@@ -1,7 +1,6 @@
 ---
 title: Lesson 01 – Glossary of Terms 
 description: "Key terms for understanding the basics of GenAI and lesson 1"
-date: 2025-17-10
 author: Satya Prakash Nigam
 tags: [AI Ethics, Licensing, Bias, XAI, Value Alignment, Adversarial Robustness, CC BY-NC]
 layout: post

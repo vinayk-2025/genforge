@@ -1,7 +1,6 @@
 ---
 title: "Online Image Generator Lab"
 description: "Lab to explore free web-based image generation platforms, compare outputs, and reflect on usability"
-date: 2025-11-17
 author: Satya Prakash Nigam
 tags: [GenAI, Online Labs, Image Generation, Prompt Engineering, Multimodal]
 layout: post

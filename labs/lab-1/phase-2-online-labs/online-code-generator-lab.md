@@ -1,7 +1,6 @@
 ---
 title: "Online Code Generator Lab"
 description: "Lab to explore browser-based code generation platforms, compare outputs, and reflect on usability"
-date: 2025-11-17
 author: Satya Prakash Nigam
 tags: [GenAI, Online Labs, Code Generation, Prompt Engineering, Evaluation]
 layout: post

@@ -2,7 +2,6 @@
 ---
 title: "Phase 1 — Debugging Installation Issues"
 description: "Troubleshooting guide for common environment setup problems in Phase 1"
-date: 2025-11-17
 author: Satya Prakash Nigam
 tags: [GenAI, Environment Setup, Debugging, Troubleshooting, PATH, Installation]
 layout: post

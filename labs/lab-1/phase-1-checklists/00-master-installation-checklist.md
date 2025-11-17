@@ -1,7 +1,6 @@
 ---
 title: "00 Master Installation Checklist"
 description: "Consolidated checklist for Phase 1 environment setup — Python, Node.js, Git, Ollama, LM Studio, Jupyter, XAMPP"
-date: 2025-11-17
 author: Satya Prakash Nigam
 tags: [GenAI, Environment Setup, Installation, Checklist, Reproducibility]
 layout: post

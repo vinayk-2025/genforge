@@ -2,7 +2,6 @@
 ---
 title: "Node.js Installation Checklist (for Gemini CLI)"
 description: "Guide to install Node.js, verify setup, and prepare environment for Gemini CLI usage"
-date: 2025-11-17
 author: Satya Prakash Nigam
 tags: [GenAI, Environment Setup, Node.js, npm, Gemini CLI, Installation]
 layout: post

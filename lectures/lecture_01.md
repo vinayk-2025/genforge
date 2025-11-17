@@ -1,7 +1,6 @@
 ---
 title: "Lecture 01: Orientation, Environment Setup & Foundations Recap"
 description: "Launch session for GenAI + Agentic AI course - orientation, environment setup, validation, and conceptual recap"
-date: 2025-11-17
 author: Satya Prakash Nigam
 tags: [GenAI, Agentic AI, Environment Setup, Prompt Engineering, Streamlit, LangChain, Ollama, Gemini CLI]
 layout: post

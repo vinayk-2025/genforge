@@ -2,7 +2,6 @@
 ---
 title: "Ollama Installation Checklist"
 description: "Guide to install Ollama, pull local LLMs, and verify prompt execution offline"
-date: 2025-11-17
 author: Satya Prakash Nigam
 tags: [GenAI, Environment Setup, Ollama, Local LLM, Installation]
 layout: post

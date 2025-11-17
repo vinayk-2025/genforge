@@ -1,19 +1,18 @@
 ---
-title: Student Notes — Day 01: Foundations, Orientation & Environment Setup
+title: Student Notes � Day 01: Foundations, Orientation & Environment Setup
 author: Satya Prakash Nigam
-date: 2025-11-17
 layout: post
 permalink: /student-notes/day01/
 ---
 
-# Generative AI, Prompt Engineering & Agentic Systems — Student Notes  
+# Generative AI, Prompt Engineering & Agentic Systems � Student Notes  
 **Day 01 / Lecture 01: Foundations, Orientation & Environment Setup**  
 
 ---
 
 ## Scope of This Session
 
-This first session introduces the GenForge course. You’ll explore:
+This first session introduces the GenForge course. You�ll explore:
 
 - Core distinctions between GenAI and traditional AI  
 - What makes an AI agentic  
@@ -106,7 +105,7 @@ By the end of this session, you should be able to:
 | `test_git_config.sh`        | Verify Git identity and GitHub linking       |
 | `check_mysql_connection.php`| Test MySQL connectivity via XAMPP            |
 | `test_ollama.py`            | Run `tinyllama` locally via Ollama           |
-| `test_langchain_prompt.py`  | Chain prompt → LLM using LangChain           |
+| `test_langchain_prompt.py`  | Chain prompt ? LLM using LangChain           |
 | `test_langchain_fastapi.py` | Wrap LangChain in FastAPI                    |
 | `test_langchain_streamlit.py` | Streamlit frontend for LangChain chain     |
 | `test_gemini_cli.sh`        | Run Gemini CLI with sample prompt            |
@@ -146,32 +145,32 @@ By the end of this session, you should be able to:
 
 ## Summary
 
-- You’ve understood the foundations of GenAI and agentic AI  
+- You�ve understood the foundations of GenAI and agentic AI  
 - Your local environment is validated and ready for experimentation  
-- You’ve practiced prompt engineering styles and delivery workflows  
-- You’ve deployed and documented your first GenAI app  
-- You’ve begun cultivating reproducible, professional habits for agentic workflows
+- You�ve practiced prompt engineering styles and delivery workflows  
+- You�ve deployed and documented your first GenAI app  
+- You�ve begun cultivating reproducible, professional habits for agentic workflows
 
 ---
 
-## 📜 License
+## ?? License
 This repository is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
 You may share and adapt the materials with proper attribution, but **commercial use is prohibited**.  
-🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
+?? [License Details](https://creativecommons.org/licenses/by-nc/4.0)
 
 ---
 
 Curated by **Satya Prakash Nigam**  
-Independent AI Consultant · Fractional CTO · Product Architect · Technical Enablement Strategist  
-🌐 Personal: [spnigam.in](https://spnigam.in)  
-🧪 Platform: [aialchemyhub.in](https://www.aialchemyhub.in)  
-📺 YouTube: [AI Alchemy Hub](https://www.youtube.com/@AIAlchemyHub-zx6lz)  
-💬 Community (Coming Soon): [community.aialchemyhub.in](https://community.aialchemyhub.in)  
-💬 Zulip: [aialchemyhub.zulipchat.com](https://aialchemyhub.zulipchat.com)  
-📧 Email: spnigam25@yahoo.com  
-🔗 LinkedIn: [linkedin.com/in/spn25](https://www.linkedin.com/in/spn25)  
-💻 GitHub: [github.com/satya25](https://github.com/satya25)  
-🤖 Hugging Face: [huggingface.co/satya25](https://huggingface.co/satya25)
+Independent AI Consultant � Fractional CTO � Product Architect � Technical Enablement Strategist  
+?? Personal: [spnigam.in](https://spnigam.in)  
+?? Platform: [aialchemyhub.in](https://www.aialchemyhub.in)  
+?? YouTube: [AI Alchemy Hub](https://www.youtube.com/@AIAlchemyHub-zx6lz)  
+?? Community (Coming Soon): [community.aialchemyhub.in](https://community.aialchemyhub.in)  
+?? Zulip: [aialchemyhub.zulipchat.com](https://aialchemyhub.zulipchat.com)  
+?? Email: spnigam25@yahoo.com  
+?? LinkedIn: [linkedin.com/in/spn25](https://www.linkedin.com/in/spn25)  
+?? GitHub: [github.com/satya25](https://github.com/satya25)  
+?? Hugging Face: [huggingface.co/satya25](https://huggingface.co/satya25)
 
-**GenForge — Forging the future of agentic AI**  
+**GenForge � Forging the future of agentic AI**  
 _Last updated: November 2025_

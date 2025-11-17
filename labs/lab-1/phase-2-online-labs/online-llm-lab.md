@@ -1,7 +1,6 @@
 ---
 title: "Online LLM Lab: Comparative Prompting Across Domains"
 description: "Lab to experiment with multiple online LLMs across text, image, and code generation domains"
-date: 2025-11-17
 author: Satya Prakash Nigam
 tags: [GenAI, Online Labs, LLM, Text Generation, Image Generation, Code Generation, Prompt Engineering]
 layout: post

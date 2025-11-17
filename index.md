@@ -2,7 +2,6 @@
 ---
 title: "GenForge — Course Landing Page"
 author: Satya Prakash Nigam
-date: 2025-11-17
 layout: post
 permalink: /
 tags: [GenAI, Agentic AI, Prompt Engineering, Course Overview]

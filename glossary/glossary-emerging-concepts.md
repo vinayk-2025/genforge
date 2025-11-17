@@ -1,7 +1,6 @@
 ---
 title: "Glossary – Emerging AI Concepts"
 description: "Frontier terminology for upcoming AI research including neuromorphic computing, AGI, X-risk, and hybrid systems"
-date: 2025-11-10
 author: Satya Prakash Nigam
 tags: [Emerging AI, AGI, Neuromorphic, Multimodal, Quantum ML, Ethics, X-risk]
 layout: post

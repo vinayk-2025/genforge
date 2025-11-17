@@ -2,7 +2,6 @@
 ---
 title: "Notepad++ and Git Installation Checklist"
 description: "Guide to install Notepad++ for lightweight coding and Git for version control and collaboration"
-date: 2025-11-17
 author: Satya Prakash Nigam
 tags: [GenAI, Environment Setup, Notepad++, Git, Installation, Version Control]
 layout: post

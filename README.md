@@ -2,7 +2,6 @@
 ---
 title: GenForge — GenAI & Agentic AI Course Repository
 author: Satya Prakash Nigam
-date: November 2025
 layout: post
 permalink: /
 ---

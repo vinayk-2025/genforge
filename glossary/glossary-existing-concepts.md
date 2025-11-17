@@ -1,7 +1,6 @@
 ---
 title: "Glossary – Existing AI Concepts"
 description: "Foundational terminology for GenAI, LLMs, neural networks, and core machine learning techniques"
-date: 2025-11-10
 author: Satya Prakash Nigam
 tags: [GenAI, LLM, NLP, Deep Learning, Neural Networks, AI Glossary]
 layout: post

@@ -2,7 +2,6 @@
 ---
 title: "Phase 3 Validation Labs Overview"
 description: "Validation scripts and environment setup guide for Phase 3 labs in the GenAI Agentic Course"
-date: 2025-11-17
 author: Satya Prakash Nigam
 tags: [GenAI, Validation Labs, Phase 3, Environment Setup, Agentic AI]
 layout: post

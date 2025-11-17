@@ -2,7 +2,6 @@
 ---
 title: About This Course
 author: Satya Prakash Nigam
-date: November 2025
 layout: post
 permalink: /about-this-course/
 ---

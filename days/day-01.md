@@ -1,7 +1,6 @@
 ---
 title: "Day 01 — Orientation, Environment Setup & Foundations Recap"
 description: "Launch session for GenAI + Agentic AI course — orientation, environment setup, and conceptual recap"
-date: 2025-11-04
 author: Satya Prakash Nigam
 tags: [GenAI, Agentic AI, Environment Setup, Prompt Engineering, Streamlit, LangChain]
 layout: post

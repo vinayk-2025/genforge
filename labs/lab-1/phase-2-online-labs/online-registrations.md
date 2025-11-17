@@ -1,7 +1,6 @@
 ---
 title: "Online Registrations Guide"
 description: "Guide to register for free GenAI tools, deployment platforms, and open-source ecosystems"
-date: 2025-11-17
 author: Satya Prakash Nigam
 tags: [GenAI, Online Labs, Registration, Accounts, Open Source, Ecosystems]
 layout: post

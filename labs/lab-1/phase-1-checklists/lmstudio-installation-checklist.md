@@ -2,7 +2,6 @@
 ---
 title: "LM Studio Installation Checklist"
 description: "Guide to install LM Studio, download local models, and test prompts with optional API server"
-date: 2025-11-17
 author: Satya Prakash Nigam
 tags: [GenAI, Environment Setup, LM Studio, Local LLM, Installation]
 layout: post

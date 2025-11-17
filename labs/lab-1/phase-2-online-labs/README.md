@@ -1,7 +1,6 @@
 ---
 title: "Phase 2 Online Labs Overview"
 description: "Introduction and roadmap for Phase 2 online labs exploring GenAI tools via free web interfaces"
-date: 2025-11-17
 author: Satya Prakash Nigam
 tags: [GenAI, Online Labs, Phase 2, Web Interfaces, Prompt Engineering]
 layout: post

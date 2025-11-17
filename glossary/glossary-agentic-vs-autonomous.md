@@ -1,7 +1,6 @@
 ---
 title: "Glossary – Agentic AI vs Autonomous Systems"
 description: "Clarifying the distinction between agentic behaviour and full autonomy in AI systems"
-date: 2025-11-10
 author: Satya Prakash Nigam
 tags: [Agentic AI, Autonomous Systems, AI Agents, Multi-Agent Systems, Autonomy, Decision-Making]
 layout: post
