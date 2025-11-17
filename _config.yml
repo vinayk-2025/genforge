@@ -11,7 +11,7 @@ color_scheme: light
 plugins:
   - jekyll-remote-theme
 
-# nav:
+nav:
   - title: Home
     url: /
   - title: About the Instructor
