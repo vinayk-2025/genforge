@@ -1,11 +1,3 @@
----
-title: ""00 Master Installation Checklist""
-description: "Consolidated checklist for Phase 1 environment setup - Python, Node.js, Git, Ollama, LM Studio, Jupyter, XAMPP"
-author: "Satya Prakash Nigam"
-tags: [GenAI, Environment Setup, Installation, Checklist, Reproducibility]
-layout: post
-permalink: /labs/lab-1/phase-1-checklists/00-master-installation-checklist/
----
 
 # ✅ Phase 1 - Master Installation Checklist
 📅 **Date**: 17-11-2025  
@@ -14,24 +6,6 @@ permalink: /labs/lab-1/phase-1-checklists/00-master-installation-checklist/
 This master checklist consolidates all Phase 1 environment setup tasks.  
 Students should complete each item and mark progress before moving to Phase 2 labs.
 
----
-
-## 🔧 Core Tools
-
-- [ ] **Python 3.11 Installation**  
-  - Verify with `python --version`  
-  - Install required packages via `pip install -r requirements.txt`  
-  - Reference: [python-installation-checklist.md](./python-installation-checklist.md)
-
-- [ ] **Node.js Installation**  
-  - Verify with `node --version` and `npm --version`  
-  - Reference: [nodejs-installation-checklist.md](./nodejs-installation-checklist.md)
-
-- [ ] **Git + Notepad++ Setup**  
-  - Configure Git identity (`git config --global user.name`, `git config --global user.email`)  
-  - Reference: [notepad-git-installation-checklist.md](./notepad-git-installation-checklist.md)
-
----
 
 ## 🤖 AI Tooling
 
@@ -47,29 +21,12 @@ Students should complete each item and mark progress before moving to Phase 2 
   - Verify with `jupyter notebook` launch  
   - Reference: [jupyter-installation-checklist.md](./jupyter-installation-checklist.md)
 
----
-
-## 🗄️ Database & Backend
-
-- [ ] **XAMPP Installation**  
-  - Verify Apache and MySQL services start successfully  
-  - Reference: [xampp-installation-checklist.md](./xampp-installation-checklist.md)
-
----
 
 ## 📜 Notes
 - Complete **all items** before moving to Phase 2 online labs.  
 - Document any errors and fixes in your personal notes.  
 - Push reproducible setup to GitHub with a `README.md` and `requirements.txt`.  
 
----
-
-## License
-This checklist is licensed under **CC BY-NC 4.0**  
-You may share and adapt with attribution - but commercial use is prohibited  
-🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
-
----
 
 Curated by **Satya Prakash Nigam**  
 Independent AI Consultant · Fractional CTO · Product Architect · Technical Enablement Strategist  

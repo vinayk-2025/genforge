@@ -1,11 +1,3 @@
----
-title: ""Lecture 01: Orientation, Environment Setup & Foundations Recap""
-description: "Launch session for GenAI + Agentic AI course - orientation, environment setup, validation, and conceptual recap"
-author: "Satya Prakash Nigam"
-tags: [GenAI, Agentic AI, Environment Setup, Prompt Engineering, Streamlit, LangChain, Ollama, Gemini CLI]
-layout: post
-permalink: /lectures/lecture-01/
----
 
 # Lecture 01: Orientation, Environment Setup & Foundations Recap
 📅 **Date**: 17-11-2025  
@@ -13,12 +5,6 @@ permalink: /lectures/lecture-01/
 
 🔗 [Day 01 Master Notes](/days/day-01.md)
 
----
-
-## Scope
-This launch session lays the groundwork for your journey into Generative AI, Prompt Engineering, and Agentic Systems. You will explore the course structure, learning philosophy, and tooling ecosystem that will guide your progress. By the end of this session, you will have your local environment configured, validated, and conceptually aligned for agentic workflows.
-
----
 
 ## Objectives
 - Understand the modular structure and weekly rhythm of the course  
@@ -30,23 +16,6 @@ This launch session lays the groundwork for your journey into Generative AI, Pro
 - Practice reproducibility with `requirements.txt` and GitHub integration  
 - Prepare for agentic workflows and prompt chaining in Lecture 02  
 
----
-
-## Key Concepts
-- Value-added learning and modular curriculum design  
-- GenAI vs traditional AI: framing the paradigm shift  
-- Local-first development and open-source tooling  
-- Reproducibility, version control, and professional habits  
-- Prompt delivery workflows: Web UI, CLI, Python scripting, Python API  
-- Hosting and sharing: Streamlit Cloud, GitHub Pages, LMS integration  
-- Folder hygiene and GitHub integration  
-- CLI vs GUI experimentation  
-- LangChain chaining and FastAPI orchestration  
-- Streamlit dashboards  
-- Gemini CLI prompt delivery  
-- MySQL-backed prompting via XAMPP  
-
----
 
 ## Demo Modules
 - `setup-environment-phase-1.md` - full environment setup guide  
@@ -74,20 +43,6 @@ This launch session lays the groundwork for your journey into Generative AI, Pro
 
 > Warning: Gemini CLI should not be run in root directories. Use project-specific folders to prevent unintended context ingestion.
 
----
-
-## Session Structure: 6 x 20-Minute Pomodoro Blocks
-
-| Block | Focus Area                                                |
-|-------|-----------------------------------------------------------|
-| 1     | Course orientation, modular structure, weekly rhythm      |
-| 2     | Tooling ecosystem: Python, LangChain, Ollama, Gemini CLI  |
-| 3     | Environment setup: Python, Node.js, Git, Ollama           |
-| 4     | Prompt delivery methods: Web UI, CLI, script, API         |
-| 5     | Streamlit deployment, GitHub hygiene, reproducibility     |
-| 6     | Conceptual recap, glossary walkthrough, Q&A, LMS export   |
-
----
 
 ## Glossary of Key Terms
 | Term              | Definition |
@@ -105,21 +60,6 @@ This launch session lays the groundwork for your journey into Generative AI, Pro
 | XAMPP             | MySQL-backed local server stack |
 | requirements.txt  | File listing Python packages for reproducible environment setup |
 
----
-
-## References
-- [Streamlit Documentation](https://docs.streamlit.io/)  
-- [LangChain Quickstart](https://docs.langchain.com/docs/get-started/quickstart)  
-- [Ollama Library](https://ollama.com/library)  
-- [Gemini CLI](https://ai.google.dev/gemini-api/docs/tools/cli)  
-- [LLM Studio](https://github.com/LLM-Studio/llm-studio)  
-- [JupyterLab](https://jupyter.org/)  
-- [XAMPP](https://www.apachefriends.org/index.html)  
-- [GitHub Pages](https://pages.github.com/)  
-- [Hugging Face](https://huggingface.co/join)  
-- [GitHub Student Guide](https://docs.github.com/en/get-started/quickstart)
-
----
 
 ## Student Exercises
 - Complete environment setup and verify installations  
@@ -132,18 +72,6 @@ This launch session lays the groundwork for your journey into Generative AI, Pro
 - Practice reproducibility with `requirements.txt` and GitHub integration  
 - Test LangChain, Gemini CLI, Ollama, and Streamlit workflows  
 
----
-
-## Key Takeaways for Students
-- You understand the scope and structure of the course, including its modular design and weekly rhythm  
-- You have been introduced to the core tools and platforms that will power your GenAI workflows  
-- You have begun cultivating professional habits around reproducibility, documentation, and version control  
-- Your local environment is now primed for hands-on experimentation with open-source GenAI systems  
-- You have tested multiple ways to send prompts to LLMs - a foundational skill for agentic workflows  
-- You have validated installations and workflows across CLI and GUI tools  
-- You are ready to begin prompt engineering and agentic workflows in Lecture 02  
-
----
 
 ## Instructor Notes
 - Emphasize reproducibility and open-source fluency from Day 01  
@@ -153,15 +81,6 @@ This launch session lays the groundwork for your journey into Generative AI, Pro
 - Reinforce the value of public deployment and documentation as part of professional readiness  
 - Showcase prompt variations and their impact  
 
----
-
-## License
-
-This repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).  
-You may share and adapt the materials with proper attribution, but commercial use is prohibited.  
-License Details: https://creativecommons.org/licenses/by-nc/4.0
-
----
 
 Curated by **Satya Prakash Nigam**  
 Independent AI Consultant · Fractional CTO · Product Architect · Technical Enablement Strategist  

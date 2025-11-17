@@ -1,20 +1,8 @@
----
-author: "Satya Prakash Nigam"
-layout: post
-permalink: /about-me/
----
 
 # About the Instructor  
 **Satya Prakash Nigam**  
 Independent AI Consultant · Fractional CTO · Product Architect · Technical Enablement Strategist  
 
----
-
-## Professional Summary
-
-I am a strategic technologist with 28+ years across enterprise, consulting, and entrepreneurship. My current focus is **Generative AI**, **agentic systems**, and **modular curriculum design** - building reproducible, production-grade AI workflows tailored to industry and academic needs.
-
----
 
 ## Core Skills & Expertise 🛠️
 
@@ -24,18 +12,6 @@ I am a strategic technologist with 28+ years across enterprise, consulting, and 
 - **Automation & Quality**: CI/CD, reusable middleware, test frameworks  
 - **Enterprise-Ready Architecture**: Performance, security, reproducibility across cloud and local stacks  
 
----
-
-## Technology Domains ⚙️
-
-- **GenAI & Agentic Systems**: LangChain, Ollama, Hugging Face, Gemini CLI, Copilot, LM Studio  
-- **LLM Deployment & Evaluation**: GGUF models, prompt tracing, VAC templates  
-- **Full-Stack Engineering**: Python, Node.js, React, FastAPI  
-- **Data Science & ML**: Pandas, Scikit-learn, Statsmodels, Dask  
-- **DevOps & Automation**: Docker, GitHub Actions, Jenkins, Selenium  
-- **Legacy Fluency**: C++, PHP, MySQL, Groovy, MongoDB, Oracle  
-
----
 
 ## Professional Experience 💼
 
@@ -54,29 +30,11 @@ I am a strategic technologist with 28+ years across enterprise, consulting, and 
 - **Entrepreneur (2009-2011)**: Founded software firm, delivered healthcare/PR apps, architected TALMS  
 - **Earlier Career (Pre‑2004)**: Led testing teams, built automation frameworks, implemented ISO 9001 processes  
 
----
-
-## Education & Achievements 🎓
-
-- **B.E. (Electronics)** - SGSITS, Indore, India  
-- Agile Methodologies (Yahoo, Novell)  
-- Performance Awards - Tektronix, Novell, Yahoo, Avalara  
-- Certified Yoga Instructor, Chess Champion (IIT Roorkee), Hindustani classical vocalist & theater performer  
-
----
 
 ## Instructor Philosophy
 
 I believe in **modular clarity**, **reproducible workflows**, and **student‑first design**. My teaching blends technical rigour with real‑world readiness, ensuring learners and clients gain scalable, future‑proof skills.
 
----
-
-## 📜 License
-This repository is licensed under the **Creative Commons Attribution‑NonCommercial 4.0 International (CC BY‑NC 4.0)**.  
-You may share and adapt the materials with proper attribution, but **commercial use is prohibited**.  
-🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
-
----
 
 Curated by **Satya Prakash Nigam**  
 Independent AI Consultant · Fractional CTO · Product Architect · Technical Enablement Strategist  

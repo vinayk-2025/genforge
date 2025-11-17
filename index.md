@@ -1,11 +1,4 @@
 
----
-title: ""GenForge - Course Landing Page""
-author: "Satya Prakash Nigam"
-layout: post
-permalink: /
-tags: [GenAI, Agentic AI, Prompt Engineering, Course Overview]
----
 
 # 🎓 Welcome to GenForge  
 **Generative AI · Agentic AI · Prompt Engineering**
@@ -15,35 +8,6 @@ This course empowers learners to **forge reproducible GenAI workflows**, master 
 
 Curated and delivered by **Satya Prakash Nigam**, Independent AI Consultant · Fractional CTO · Product Architect · Technical Enablement Strategist.
 
----
-
-## 🚀 Course Roadmap
-
-1. **Orientation & Environment Setup**  
-   - [Storage Requirements](/storage-requirements/)  
-   - [Daily Schedule](/days/)  
-
-2. **Lectures**  
-   - [Lecture Notes](/lectures/)  
-   - [Slide Decks](/slide-decks/)  
-
-3. **Hands-on Labs**  
-   - [Labs](/labs/)  
-   - [Glossary](/glossary/)  
-
-4. **Student Resources**  
-   - [Student Notes](/student-notes/)  
-   - [Quizzes](/quizzes/)  
-
-5. **Capstone & Presentations**  
-   - [Capstone Templates](/capstone-templates/)  
-   - [Presentations](/presentations/)  
-
-6. **PDF Exports**  
-   - [Student Notes (PDF)](/pdf-student-notes/)  
-   - [Quizzes (PDF)](/pdf-quizzes/)  
-
----
 
 ## 🧑‍💻 Getting Started
 
@@ -66,14 +30,6 @@ pip install -r requirements.txt
 python labs/lab-1/phase-3-validation/test_requirements.py
 ```
 
----
-
-## 📜 License
-This repository is licensed under the **Creative Commons Attribution‑NonCommercial 4.0 International (CC BY‑NC 4.0)**.  
-You may share and adapt the materials with proper attribution, but **commercial use is prohibited**.  
-🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
-
----
 
 Curated by **Satya Prakash Nigam**  
 Independent AI Consultant · Fractional CTO · Product Architect · Technical Enablement Strategist  

@@ -1,10 +1,4 @@
  
----
-title: "GenForge - GenAI & Agentic AI Course Repository"
-author: "Satya Prakash Nigam"
-layout: post
-permalink: /
----
 
 # 🔥 GenForge - GenAI, Agentic AI & Prompt Engineering
 
@@ -13,20 +7,6 @@ This course empowers learners to **forge reproducible GenAI workflows**, master 
 
 Curated and delivered by **Satya Prakash Nigam**, Independent AI Consultant · Fractional CTO · Product Architect · Technical Enablement Strategist.
 
----
-
-## 🎯 What You'll Learn
-
-- Generative AI fundamentals and reproducible workflows  
-- Prompt engineering strategies (zero-shot, few-shot, CoT, role-based)  
-- Agentic pipelines using LangChain, Gemini CLI, and Ollama  
-- Local-first experimentation with open-source LLMs  
-- Ethical deployment, reproducibility, and professional hygiene  
-- Capstone-ready scaffolding for industry and academic projects  
-- Validation labs to ensure environment setup and dependency hygiene  
-- Deployment strategies for Streamlit Cloud and reproducible dashboards  
-
----
 
 ## 📁 Repository Structure
 
@@ -47,50 +27,6 @@ Curated and delivered by **Satya Prakash Nigam**, Independent AI Consultant · F
 
 > ✅ `proposal/` and `temp/` are retained locally and excluded from GitHub sync
 
----
-
-## 🧑‍💻 Environment Setup
-
-To ensure reproducibility, always work inside a **virtual environment** and install dependencies from the canonical `requirements.txt` file located in the project root.
-
-### 1. Create and activate venv
-
-**Linux/macOS (bash/zsh):**
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
-**Windows PowerShell:**
-```powershell
-python -m venv venv
-venv\Scripts\Activate.ps1
-```
-
-**Windows Git Bash:**
-```bash
-python -m venv venv
-source venv/Scripts/activate
-```
-
-### 2. Install dependencies
-
-Once the venv is active:
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Validate installation
-
-Run the validator script:
-```bash
-python labs/lab-1/phase-3-validation/test_requirements.py
-```
-
-Expected output: ✅ for installed packages, ❌ with pip install hints for missing ones.
-
-
----
  
 ## 🛠️ Troubleshooting Environment Setup
 
@@ -152,12 +88,6 @@ Even with clear instructions, students may face common issues when creating a vi
 - **Model missing**  
   Run `ollama pull tinyllama` before testing.
 
----
-
-⚡ With these troubleshooting steps, students can resolve 90% of environment setup issues quickly and continue with Phase‑3 validation labs.
- 
-
----
 
 ## 🧠 Highlights of GenForge
 
@@ -169,14 +99,6 @@ Even with clear instructions, students may face common issues when creating a vi
 - **Validation discipline**: Phase-3 labs ensure all dependencies and frameworks are tested before capstones  
 - **Cross-platform onboarding**: Explicit instructions for Windows, Linux, and macOS  
 
----
-
-## 📜 License
-This repository is licensed under the **Creative Commons Attribution‑NonCommercial 4.0 International (CC BY‑NC 4.0)**.  
-You may share and adapt the materials with proper attribution, but **commercial use is prohibited**.  
-🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
-
----
 
 Curated by **Satya Prakash Nigam**  
 Independent AI Consultant · Fractional CTO · Product Architect · Technical Enablement Strategist  
@@ -194,5 +116,3 @@ Independent AI Consultant · Fractional CTO · Product Architect · Technical En
 _Last updated: November 2025_
 ```
 
----
- 

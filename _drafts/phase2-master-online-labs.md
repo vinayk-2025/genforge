@@ -1,24 +1,7 @@
----
-title: ""00 Master Online Labs Checklist""
-description: "Master checklist for Phase 2 online labs exploring GenAI tools via free web interfaces"
-author: "Satya Prakash Nigam"
-tags: [GenAI, Online Labs, Phase 2, Checklist, Web Interfaces]
-layout: post
-permalink: /labs/lab-1/phase-2-online-labs/00-master-online-labs/
----
 
 # 🌐 Phase 2 Online Labs: Master Checklist
 This master checklist provides a structured entry point into **Phase 2 online labs**, ensuring students can navigate registrations, hosted LLMs, and prompt‑driven experiments with clarity.
 
----
-
-## 🎯 Objectives
-- Register for mandatory and optional online platforms  
-- Explore hosted LLMs, image generators, and code generators  
-- Compare outputs across multiple tools for accuracy, style, and usability  
-- Reinforce ethical awareness and prompt engineering strategies  
-
----
 
 ## 📂 Lab Files
 
@@ -30,15 +13,6 @@ This master checklist provides a structured entry point into **Phase 2 online 
 | **Online Code Generator Lab** | Experiment with browser‑based code generation tools (Vibe Coder, Devv.ai, ZZZCode) | [online-code-generator-lab.md](./online-code-generator-lab.md) |
 | **Online Image Generator Lab** | Explore free image generation platforms (Vheer, FreeForAI, Mage.Space, Leonardo.Ai) | [online-image-generator-lab.md](./online-image-generator-lab.md) |
 
----
-
-## 🧑‍🏫 Instructor Notes
-- Encourage reproducibility: log prompts and outputs in markdown tables  
-- Highlight differences in model behaviour across platforms  
-- Reinforce ethical awareness: copyright, bias, hallucination risks  
-- Use these labs to introduce multimodal prompt engineering and agentic workflows  
-
----
 
 ## 🧪 Outcomes
 - Students gain hands‑on experience with **hosted GenAI platforms**  
@@ -46,14 +20,6 @@ This master checklist provides a structured entry point into **Phase 2 online 
 - Build awareness of **prompt clarity, evaluation heuristics, and ethical framing**  
 - Ready to transition into **Phase 3 local labs** for reproducible, offline workflows  
 
----
-
-## License
-This checklist is licensed under **CC BY-NC 4.0**  
-You may share and adapt with attribution - but commercial use is prohibited  
-🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
-
----
 
 Curated by **Satya Prakash Nigam**  
 Independent AI Consultant · Fractional CTO · Product Architect · Technical Enablement Strategist  

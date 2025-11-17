@@ -1,25 +1,7 @@
----
-title: ""Phase 2 Online Labs Overview""
-description: "Introduction and roadmap for Phase 2 online labs exploring GenAI tools via free web interfaces"
-author: "Satya Prakash Nigam"
-tags: [GenAI, Online Labs, Phase 2, Web Interfaces, Prompt Engineering]
-layout: post
-permalink: /labs/lab-1/phase-2-online-labs/
----
 
 # 🌐 Phase 2 Online Labs Overview
 Phase-2 introduces students to **online GenAI platforms** that are free, browser-based, and student‑friendly. The goal is to build familiarity with hosted LLMs, image generators, and code generators before moving into local validation workflows in Phase-3.
 
----
-
-## 🎯 Objectives
-- Explore **browser-based GenAI tools** for text, image, and code generation  
-- Learn to register and access free-tier platforms consistently using Gmail  
-- Compare outputs across multiple tools for accuracy, style, and usability  
-- Build awareness of **prompt engineering strategies** and evaluation heuristics  
-- Reinforce ethical considerations in AI usage and deployment  
-
----
 
 ## 📂 Lab Sequence
 
@@ -38,15 +20,6 @@ Phase-2 introduces students to **online GenAI platforms** that are free, browser
 5. **Online Image Generator Lab**  
    Experiment with free image generation platforms (Vheer, FreeForAI, Mage.Space, Leonardo.Ai).  
 
----
-
-## 🧑‍🏫 Instructor Notes
-- Encourage reproducibility: students should log prompts and outputs in markdown tables  
-- Highlight differences in **model behaviour across platforms**  
-- Reinforce ethical awareness: copyright, bias, hallucination risks  
-- Use these labs to introduce **multimodal prompt engineering** and **agentic workflows**  
-
----
 
 ## 🧪 Outcomes
 - Students gain hands‑on experience with **hosted GenAI platforms**  
@@ -54,14 +27,6 @@ Phase-2 introduces students to **online GenAI platforms** that are free, browser
 - Build awareness of **prompt clarity, evaluation heuristics, and ethical framing**  
 - Ready to transition into **Phase-3 local labs** for reproducible, offline workflows  
 
----
-
-## License
-This guide is licensed under **CC BY-NC 4.0**  
-You may share and adapt with attribution - but commercial use is prohibited  
-🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
-
----
 
 Curated by **Satya Prakash Nigam**  
 Independent AI Consultant · Fractional CTO · Product Architect · Technical Enablement Strategist  

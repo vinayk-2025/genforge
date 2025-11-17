@@ -1,18 +1,6 @@
----
-author: "Satya Prakash Nigam"
-layout: post
-permalink: /storage-requirements/
----
 
 # Storage Requirements for GenAI Agentic Course
 
----
-
-## Purpose
-
-This document provides students with clear guidelines on how much free disk space is required to install and run all tools for the GenAI Agentic Course, and to complete 10 agentic AI projects comfortably across 33 lectures (approximately 3 lectures per week).
-
----
 
 ## Tool-wise Disk Space Estimates
 
@@ -28,15 +16,6 @@ This document provides students with clear guidelines on how much free disk spac
 | Git + Git Bash             | 500 MB                             |
 | Miscellaneous tools/configs| 1-2 GB                             |
 
----
-
-## Per Project Requirement
-
-- Each agentic AI project may require approximately 10 GB (environment, models, datasets).  
-- Larger models (13B+) may push this to 15-20 GB per project.  
-- Projects often share environments, but models and datasets can add significant overhead.
-
----
 
 ## Recommended Free Space for 10 Projects
 
@@ -44,18 +23,6 @@ This document provides students with clear guidelines on how much free disk spac
 - With larger models (13B+): 150-200 GB  
 - Comfortable buffer: 200 GB or more
 
----
-
-## Tips for Students
-
-- Prefer SSD storage for faster model loading and smoother performance.  
-- Use external drives for storing large models if laptop space is limited.  
-- Store datasets and logs in cloud storage to save local disk space.  
-- Reuse virtual environments across projects to avoid duplication.  
-- Regularly clear pip/npm caches to reclaim space.  
-- Plan ahead: if working on 10 apps, keep at least 150 GB free before starting the course.
-
----
 
 ## Summary
 
@@ -64,15 +31,6 @@ This document provides students with clear guidelines on how much free disk spac
 - Manage models and datasets smartly to avoid running out of space.  
 - With proper planning, students can complete all 10 agentic apps across 33 lectures without storage issues.
 
----
-
-## License
-
-This repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).  
-You may share and adapt the materials with proper attribution, but commercial use is prohibited.  
-License Details: https://creativecommons.org/licenses/by-nc/4.0
-
----
 
 Curated by **Satya Prakash Nigam**  
 Independent AI Consultant · Fractional CTO · Product Architect · Technical Enablement Strategist  

@@ -1,38 +1,9 @@
  
----
-title: ""Phase 3 Validation Labs Overview""
-description: "Validation scripts and environment setup guide for Phase 3 labs in the GenAI Agentic Course"
-author: "Satya Prakash Nigam"
-tags: [GenAI, Validation Labs, Phase 3, Environment Setup, Agentic AI]
-layout: post
-permalink: /labs/lab-1/phase-3-validation/
----
 
 # Phase-3 Validation Labs - GenAI Agentic Course
 
 This folder contains validation scripts to ensure your environment is correctly set up for the **GenAI Agentic Course**. Each script demonstrates a framework, library, or tool integration. Follow the instructions carefully - no assumptions are made.
 
----
-
-## 📂 Contents
-
-- `check_mysql_connection.php` - Validate PHP + MySQL connectivity  
-- `test-prompt.txt` - Sample prompt file for CLI/LLM testing  
-- `test_gemini_cli.sh` - Run Gemini CLI directly from shell  
-- `test_gemini_fastapi.py` - Expose Gemini CLI via FastAPI  
-- `test_gemini_flask.py` - Expose Gemini CLI via Flask  
-- `test_gemini_streamlit.py` - Expose Gemini CLI via Streamlit  
-- `test_git_config.sh` - Validate Git installation and configuration  
-- `test_langchain_fastapi.py` - LangChain + Ollama via FastAPI  
-- `test_langchain_prompt.py` - LangChain prompt template demo  
-- `test_langchain_streamlit.py` - LangChain + FastAPI via Streamlit frontend  
-- `test_node_hello_world.js` - Node.js Hello World validation  
-- `test_ollama.py` - Run Ollama model (tinyllama) via Python subprocess  
-- `test_ollama_fastapi.py` - Expose Ollama via FastAPI  
-- `test_requirements.py` - Validate mandatory Python packages  
-- `test_streamlit.py` - Minimal Streamlit dashboard validation  
-
----
 
 ## 🛠️ Prerequisites
 
@@ -65,13 +36,6 @@ This folder contains validation scripts to ensure your environment is correctly 
    - Pull model: `ollama pull tinyllama`  
    - Start service: `ollama serve`
 
----
-
-## 🚀 Usage Instructions
-
-(Examples for each script: Gemini CLI, FastAPI, Flask, Streamlit, Git config, LangChain, Node.js, Ollama, Requirements validator, Streamlit Hello World - see detailed commands above.)
-
----
 
 ## ⚠️ Notes
 
@@ -82,30 +46,9 @@ This folder contains validation scripts to ensure your environment is correctly 
 - If you see `WinError 10061` → backend not running.  
 - If you see `Could not import module` → remove `.py` from uvicorn command.  
 
----
-
-## ✅ Validation Checklist
-
-- [ ] Python 3.10+ installed  
-- [ ] Virtual environment activated  
-- [ ] All mandatory packages installed (`test_requirements.py`)  
-- [ ] Node.js + npm installed  
-- [ ] Git installed and configured  
-- [ ] Ollama installed, model pulled, service running  
-- [ ] FastAPI/Flask/Streamlit scripts tested successfully  
-
----
 
 🎓 With this README, students have **one authoritative guide** to validate their environment before moving into advanced Agentic AI labs.
 
----
-
-## License
-This guide is licensed under **CC BY-NC 4.0**  
-You may share and adapt with attribution - but commercial use is prohibited  
-🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
-
----
 
 Curated by **Satya Prakash Nigam**  
 Independent AI Consultant · Fractional CTO · Product Architect · Technical Enablement Strategist  

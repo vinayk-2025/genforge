@@ -1,26 +1,7 @@
----
-title: ""Online Code Generator Lab""
-description: "Lab to explore browser-based code generation platforms, compare outputs, and reflect on usability"
-author: "Satya Prakash Nigam"
-tags: [GenAI, Online Labs, Code Generation, Prompt Engineering, Evaluation]
-layout: post
-permalink: /labs/lab-1/phase-2-online-labs/online-code-generator-lab/
----
 
 # 💻 Online Code Generator Lab
 This lab introduces students to free, browser‑based code generation tools. Each platform supports Gmail login or no login at all, and allows students to experiment with prompt‑driven coding across multiple languages.
 
----
-
-## ✅ Platforms to Explore
-
-| Platform | Access Type | Highlights |
-|----------|-------------|------------|
-| [Vibe Coder](https://justbuildthings.com/vibe-coder) | No login required | Generates full HTML/CSS/JS apps from natural language |
-| [Devv.ai](https://devv.ai/en/search/f2rtpqmaiigw) | Gmail login | Multi‑language code generation with clean UI |
-| [ZZZCode](https://zzzcode.ai/code-generator) | Gmail login | Supports Python, JS, HTML; fast and responsive |
-
----
 
 ## 🎯 Suggested Lab Activity
 
@@ -37,29 +18,12 @@ This lab introduces students to free, browser‑based code generation tools. Eac
 3. Paste results into a markdown table  
 4. Reflect on which tool offered the most usable code and why  
 
----
-
-## 🧑‍🏫 Instructor Notes
-- Encourage students to test generated code in Jupyter or VS Code  
-- Discuss hallucination risks and debugging strategies  
-- Reinforce the value of prompt clarity and specificity  
-- Use this lab to introduce prompt chaining and output priming  
-
----
 
 ## 🧪 Outcome
 - Students gain hands‑on experience with prompt‑driven code generation  
 - Learn to evaluate and debug AI‑generated code  
 - Build awareness of tool limitations and prompt engineering strategies  
 
----
-
-## License
-This lab is licensed under **CC BY-NC 4.0**  
-You may share and adapt with attribution - but commercial use is prohibited  
-🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
-
----
 
 Curated by **Satya Prakash Nigam**  
 Independent AI Consultant · Fractional CTO · Product Architect · Technical Enablement Strategist  
