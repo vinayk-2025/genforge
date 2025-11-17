@@ -31,7 +31,10 @@ nav:
   - title: Quizzes
     url: /quizzes/
   - title: Glossary
-    url: /glossary/
+    children:
+      - title: Glossary Index
+        url: /glossary/
+      # Individual glossary files moved to _drafts/ will no longer auto‑render
   - title: Capstone Templates
     url: /capstone-templates/
   - title: Presentations
