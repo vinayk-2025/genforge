@@ -1,16 +1,16 @@
 ---
-title: "Glossary – Multimodal AI Concepts"
+title: ""Glossary - Multimodal AI Concepts""
 description: "Terminology and examples for AI systems that integrate text, image, audio, and video inputs"
-author: Satya Prakash Nigam
+author: "Satya Prakash Nigam"
 tags: [Multimodal AI, GenAI, Image-to-Text, Text-to-Image, Audio, Video, Cross-Modal]
 layout: post
 permalink: /glossary/glossary-multimodal/
 ---
 
-# Glossary – Multimodal AI Concepts
+# Glossary - Multimodal AI Concepts
 **Reference for Lecture 3B and 4A**
 
-This glossary defines key terms and examples related to multimodal AI — systems that process and generate across multiple data types. These concepts support your understanding of cross-domain prompting and multimodal model capabilities.
+This glossary defines key terms and examples related to multimodal AI - systems that process and generate across multiple data types. These concepts support your understanding of cross-domain prompting and multimodal model capabilities.
 
 ---
 

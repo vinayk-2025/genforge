@@ -1,7 +1,7 @@
 
 ---
  
-# 🧠 Lab 1 — Environment Setup, Online Labs & Validation
+# 🧠 Lab 1 - Environment Setup, Online Labs & Validation
 
 This lab supports **Lecture 01: Orientation, Environment Setup & Foundations Recap**.  
 It consolidates all installation checklists, online labs, and validation scripts into one unified workflow for Day 01.
@@ -62,7 +62,7 @@ lab-1/
 
 ---
 
-## 🔧 Phase 1 — Environment Setup Checklists
+## 🔧 Phase 1 - Environment Setup Checklists
 
 | File                                | Purpose                                      |
 |-------------------------------------|----------------------------------------------|
@@ -76,7 +76,7 @@ lab-1/
 
 ---
 
-## 🌐 Phase 2 — Online Labs
+## 🌐 Phase 2 - Online Labs
 
 | File                          | Purpose                                      |
 |-------------------------------|----------------------------------------------|
@@ -88,7 +88,7 @@ lab-1/
 
 ---
 
-## 🧪 Phase 3 — Validation Scripts
+## 🧪 Phase 3 - Validation Scripts
 
 | File                          | Purpose                                      |
 |-------------------------------|----------------------------------------------|

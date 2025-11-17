@@ -1,13 +1,13 @@
 ---
-title: "00 Master Installation Checklist"
-description: "Consolidated checklist for Phase 1 environment setup — Python, Node.js, Git, Ollama, LM Studio, Jupyter, XAMPP"
-author: Satya Prakash Nigam
+title: ""00 Master Installation Checklist""
+description: "Consolidated checklist for Phase 1 environment setup - Python, Node.js, Git, Ollama, LM Studio, Jupyter, XAMPP"
+author: "Satya Prakash Nigam"
 tags: [GenAI, Environment Setup, Installation, Checklist, Reproducibility]
 layout: post
 permalink: /labs/lab-1/phase-1-checklists/00-master-installation-checklist/
 ---
 
-# ✅ Phase 1 — Master Installation Checklist
+# ✅ Phase 1 - Master Installation Checklist
 📅 **Date**: 17-11-2025  
 👨‍🏫 Curated by: Satya Prakash Nigam  
 
@@ -66,7 +66,7 @@ Students should complete each item and mark progress before moving to Phase 2 
 
 ## License
 This checklist is licensed under **CC BY-NC 4.0**  
-You may share and adapt with attribution — but commercial use is prohibited  
+You may share and adapt with attribution - but commercial use is prohibited  
 🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
 
 ---

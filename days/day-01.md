@@ -1,13 +1,13 @@
 ---
-title: "Day 01 — Orientation, Environment Setup & Foundations Recap"
-description: "Launch session for GenAI + Agentic AI course — orientation, environment setup, and conceptual recap"
-author: Satya Prakash Nigam
+title: ""Day 01 - Orientation, Environment Setup & Foundations Recap""
+description: "Launch session for GenAI + Agentic AI course - orientation, environment setup, and conceptual recap"
+author: "Satya Prakash Nigam"
 tags: [GenAI, Agentic AI, Environment Setup, Prompt Engineering, Streamlit, LangChain]
 layout: post
 permalink: /days/day-01/
 ---
 
-# 🧠 Day 01 — Orientation, Environment Setup & Foundations Recap
+# 🧠 Day 01 - Orientation, Environment Setup & Foundations Recap
 📅 **Date**: [To be finalized]  
 👨‍🏫 Curated by: Satya Prakash Nigam  
 
@@ -17,7 +17,7 @@ permalink: /days/day-01/
 
 ## ⏱️ Agenda (6 × 20 minutes)
 
-### ⌛ 4:00 – 4:20 PM — Part A: Orientation
+### ⌛ 4:00 - 4:20 PM - Part A: Orientation
 - Scope of the course, modular rhythm, weekly cadence  
 - Objectives: tools overview (Python, Streamlit, LangChain, Hugging Face, Ollama, Gemini CLI)  
 - Key concepts: GenAI vs traditional AI, reproducibility, prompt workflows, hosting platforms  
@@ -27,7 +27,7 @@ permalink: /days/day-01/
 
 ---
 
-### ⌛ 4:20 – 4:40 PM — Part B: Environment Setup (Phase 1)
+### ⌛ 4:20 - 4:40 PM - Part B: Environment Setup (Phase 1)
 - Install Python 3.11, Node.js, Git, Ollama, Gemini CLI  
 - Verify installations with checklists and scripts  
 - Organize workspace folders and GitHub repo hygiene  
@@ -35,7 +35,7 @@ permalink: /days/day-01/
 
 ---
 
-### ⌛ 4:40 – 5:00 PM — Part C: Environment Setup (Phase 2)
+### ⌛ 4:40 - 5:00 PM - Part C: Environment Setup (Phase 2)
 - Validate Python packages (`test_requirements.py`)  
 - Confirm Node.js setup (`test_node_hello_world.js`)  
 - Verify Git identity (`test_git_config.sh`)  
@@ -45,7 +45,7 @@ permalink: /days/day-01/
 
 ---
 
-### ⌛ 5:00 – 5:20 PM — Part D: Environment Setup (Phase 3)
+### ⌛ 5:00 - 5:20 PM - Part D: Environment Setup (Phase 3)
 - LangChain FastAPI wrapper (`test_langchain_fastapi.py`)  
 - LangChain Streamlit frontend (`test_langchain_streamlit.py`)  
 - Gemini CLI prompt test (`test_gemini_cli.sh`)  
@@ -55,7 +55,7 @@ permalink: /days/day-01/
 
 ---
 
-### ⌛ 5:20 – 5:40 PM — Part E: Foundations Recap
+### ⌛ 5:20 - 5:40 PM - Part E: Foundations Recap
 - What is GenAI? (text, images, audio, structured data)  
 - What is Agentic AI? (tools, memory, reasoning, autonomy)  
 - What is a prompt? (question, task, examples, reasoning)  
@@ -64,7 +64,7 @@ permalink: /days/day-01/
 
 ---
 
-### ⌛ 5:40 – 6:00 PM — Part F: Reflection & Wrap‑Up
+### ⌛ 5:40 - 6:00 PM - Part F: Reflection & Wrap‑Up
 - Why reproducibility matters (`requirements.txt`, GitHub, structured folders)  
 - Glossary recap (GenAI, Agentic AI, Prompt, LangChain, Ollama, Gemini CLI, Streamlit)  
 - Student reflection questions (GenAI vs Agentic AI, preferred prompt style, reproducibility habits)  
@@ -78,11 +78,11 @@ permalink: /days/day-01/
 
 | Term                  | Definition                                                                 |
 |-----------------------|----------------------------------------------------------------------------|
-| **GenAI**             | Generative AI — models that create text, images, code, or other content    |
+| **GenAI**             | Generative AI - models that create text, images, code, or other content    |
 | **Agentic AI**        | AI systems that act autonomously using tools, memory, and reasoning        |
 | **Prompt**            | Instruction or input given to an AI model to generate a response           |
-| **Zero-shot Prompt**  | A prompt with no examples — relies on model’s general understanding        |
-| **Few-shot Prompt**   | A prompt with a few examples to guide the model’s response                 |
+| **Zero-shot Prompt**  | A prompt with no examples - relies on model's general understanding        |
+| **Few-shot Prompt**   | A prompt with a few examples to guide the model's response                 |
 | **Chain-of-Thought**  | A prompt style that encourages step-by-step reasoning                      |
 | **LangChain**         | Framework for building agentic workflows with LLMs                         |
 | **Ollama**            | Local runtime for running LLMs on personal machines                        |
@@ -95,28 +95,28 @@ permalink: /days/day-01/
 
 ## 🛠️ Demo Modules
 
-- `setup-environment-phase-1.md` — full environment setup guide  
-- `requirements-phase-1.txt` — Python dependencies for Phase 1  
-- `notepad-git-installation-checklist.md` — CLI tooling and Git setup  
-- `python-installation-checklist.md` — Python 3.11 installation and verification  
-- `ollama-installation-checklist.md` — local LLM runtime setup  
-- `online-llm-lab.md` — prompt delivery via hosted LLM playgrounds  
-- `online-llm-web-interfaces.md` — comparison of web-based GenAI interfaces  
-- `online-registrations.md` — student onboarding and GitHub setup  
-- `streamlit-cloud-deploy.md` — deploying GenAI apps to Streamlit Cloud  
-- `gemini-cli-installation.md` — Gemini CLI setup and usage notes  
-- `test_requirements.py` — validate Python packages  
-- `test_node_hello_world.js` — confirm Node.js setup  
-- `test_git_config.sh` — verify Git identity and GitHub linking  
-- `test_ollama.py` — run `tinyllama` locally via Ollama  
-- `test_langchain_prompt.py` — prompt chaining with LangChain  
-- `test_langchain_fastapi.py` — expose LangChain via FastAPI  
-- `test_langchain_streamlit.py` — Streamlit frontend for LangChain  
-- `test_gemini_cli.sh` — run Gemini CLI with sample prompt  
-- `test_gemini_fastapi.py` — FastAPI wrapper for Gemini CLI  
-- `test_gemini_streamlit.py` — Streamlit frontend for Gemini CLI  
-- `check_mysql_connection.php` — validate XAMPP MySQL setup  
-- `test_streamlit.py` — minimal dashboard launch test  
+- `setup-environment-phase-1.md` - full environment setup guide  
+- `requirements-phase-1.txt` - Python dependencies for Phase 1  
+- `notepad-git-installation-checklist.md` - CLI tooling and Git setup  
+- `python-installation-checklist.md` - Python 3.11 installation and verification  
+- `ollama-installation-checklist.md` - local LLM runtime setup  
+- `online-llm-lab.md` - prompt delivery via hosted LLM playgrounds  
+- `online-llm-web-interfaces.md` - comparison of web-based GenAI interfaces  
+- `online-registrations.md` - student onboarding and GitHub setup  
+- `streamlit-cloud-deploy.md` - deploying GenAI apps to Streamlit Cloud  
+- `gemini-cli-installation.md` - Gemini CLI setup and usage notes  
+- `test_requirements.py` - validate Python packages  
+- `test_node_hello_world.js` - confirm Node.js setup  
+- `test_git_config.sh` - verify Git identity and GitHub linking  
+- `test_ollama.py` - run `tinyllama` locally via Ollama  
+- `test_langchain_prompt.py` - prompt chaining with LangChain  
+- `test_langchain_fastapi.py` - expose LangChain via FastAPI  
+- `test_langchain_streamlit.py` - Streamlit frontend for LangChain  
+- `test_gemini_cli.sh` - run Gemini CLI with sample prompt  
+- `test_gemini_fastapi.py` - FastAPI wrapper for Gemini CLI  
+- `test_gemini_streamlit.py` - Streamlit frontend for Gemini CLI  
+- `check_mysql_connection.php` - validate XAMPP MySQL setup  
+- `test_streamlit.py` - minimal dashboard launch test  
 
 ---
 
@@ -136,7 +136,7 @@ permalink: /days/day-01/
 
 ## 📜 License & Authorship
 This course is licensed under **CC BY-NC 4.0**  
-You may share and adapt the materials with attribution — but **commercial use is prohibited**  
+You may share and adapt the materials with attribution - but **commercial use is prohibited**  
 🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
 
 Curated by **Satya Prakash Nigam**  

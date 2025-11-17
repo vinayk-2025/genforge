@@ -1,13 +1,13 @@
 ---
-title: "Glossary – Emerging AI Concepts"
+title: ""Glossary - Emerging AI Concepts""
 description: "Frontier terminology for upcoming AI research including neuromorphic computing, AGI, X-risk, and hybrid systems"
-author: Satya Prakash Nigam
+author: "Satya Prakash Nigam"
 tags: [Emerging AI, AGI, Neuromorphic, Multimodal, Quantum ML, Ethics, X-risk]
 layout: post
 permalink: /glossary/glossary-emerging-concepts/
 ---
 
-# Glossary – Emerging AI Concepts
+# Glossary - Emerging AI Concepts
 **Reference for Lecture 4B and Capstone Discussions**
 
 This glossary defines advanced and emerging concepts in AI research. These terms support future-facing discussions on autonomy, ethics, multimodal systems, and the evolution toward AGI.
@@ -34,7 +34,7 @@ This glossary defines advanced and emerging concepts in AI research. These terms
 | Graph Neural Networks (GNNs) | Neural networks designed for graph-structured data like social networks     |
 | Explainable AI (XAI) for DL  | Making deep learning models more interpretable and transparent              |
 | Federated Learning           | Distributed learning across devices while preserving data privacy           |
-| Adversarial Robustness       | AI’s ability to withstand manipulation or adversarial attacks               |
+| Adversarial Robustness       | AI's ability to withstand manipulation or adversarial attacks               |
 | Artificial General Intelligence (AGI) | Hypothetical AI with human-level intelligence across diverse domains |
 | Hybrid AI                    | Combines symbolic and neural approaches for balanced reasoning and learning |
 | Value Alignment              | Ensuring AI systems reflect human values and ethical principles             |

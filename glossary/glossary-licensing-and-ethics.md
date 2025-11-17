@@ -1,13 +1,13 @@
 ---
-title: "Glossary – Licensing, Bias, and Ethical AI"
+title: ""Glossary - Licensing, Bias, and Ethical AI""
 description: "Key terms for understanding open-source licensing, model bias, adversarial robustness, and ethical alignment in GenAI"
-author: Satya Prakash Nigam
+author: "Satya Prakash Nigam"
 tags: [AI Ethics, Licensing, Bias, XAI, Value Alignment, Adversarial Robustness, CC BY-NC]
 layout: post
 permalink: /glossary/glossary-licensing-and-ethics/
 ---
 
-# Glossary – Licensing, Bias, and Ethical AI
+# Glossary - Licensing, Bias, and Ethical AI
 **Reference for Lecture 4B and Capstone Ethics Discussions**
 
 This glossary defines key terms related to licensing, bias, safety, and ethical alignment in GenAI systems. These concepts support responsible deployment and critical evaluation of AI models.
@@ -24,7 +24,7 @@ This glossary defines key terms related to licensing, bias, safety, and ethical 
 | Creative Commons (CC)    | Licensing framework for sharing creative works with varying permissions     |
 | CC BY-NC 4.0             | Allows sharing and adaptation with attribution, but prohibits commercial use |
 | Commercial License       | Restricts usage to paid or authorised contexts, often with proprietary terms |
-| Model Card               | Documentation describing an AI model’s purpose, limitations, and ethical considerations |
+| Model Card               | Documentation describing an AI model's purpose, limitations, and ethical considerations |
 | Attribution              | Requirement to credit the original creator or source when reusing content   |
 
 ---
@@ -35,7 +35,7 @@ This glossary defines key terms related to licensing, bias, safety, and ethical 
 |--------------------------|-----------------------------------------------------------------------------|
 | Model Bias               | Systematic errors or unfair outcomes based on training data or design       |
 | Hallucination            | AI-generated output that is plausible (reasonable) but factually incorrect               |
-| Adversarial Robustness   | Model’s ability to resist manipulation or malicious inputs                  |
+| Adversarial Robustness   | Model's ability to resist manipulation or malicious inputs                  |
 | Explainable AI (XAI)     | Techniques that make AI decisions transparent and interpretable             |
 | Value Alignment          | Ensuring AI systems reflect human values and ethical principles             |
 | X-risk                   | Potential existential risks posed by highly advanced AI systems             |

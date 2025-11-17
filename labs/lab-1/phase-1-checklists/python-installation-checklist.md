@@ -1,8 +1,8 @@
 
 ---
-title: "Python Installation Checklist (Python 3.11.x + Requirements)"
+title: ""Python Installation Checklist (Python 3.11.x + Requirements)""
 description: "Guide to install Python 3.11.x, set up a virtual environment, install packages, and verify GenAI development setup"
-author: Satya Prakash Nigam
+author: "Satya Prakash Nigam"
 tags: [GenAI, Environment Setup, Python, Virtual Environment, Installation, Requirements]
 layout: post
 permalink: /labs/lab-1/phase-1-checklists/python-installation-checklist/
@@ -110,7 +110,7 @@ Python environment is ready for GenAI development!
 
 ## License
 This checklist is licensed under **CC BY-NC 4.0**  
-You may share and adapt with attribution — but commercial use is prohibited  
+You may share and adapt with attribution - but commercial use is prohibited  
 🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
 
 ---

@@ -1,15 +1,15 @@
  
 ---
-title: "Ollama Installation Checklist"
+title: ""Ollama Installation Checklist""
 description: "Guide to install Ollama, pull local LLMs, and verify prompt execution offline"
-author: Satya Prakash Nigam
+author: "Satya Prakash Nigam"
 tags: [GenAI, Environment Setup, Ollama, Local LLM, Installation]
 layout: post
 permalink: /labs/lab-1/phase-1-checklists/ollama-installation-checklist/
 ---
 
 # 🧠 Ollama Installation Checklist
-This guide walks you through installing Ollama, pulling local LLMs, and verifying prompt execution — all offline and free.
+This guide walks you through installing Ollama, pulling local LLMs, and verifying prompt execution - all offline and free.
 
 ---
 
@@ -89,7 +89,7 @@ print(response['message']['content'])
 
 ## License
 This checklist is licensed under **CC BY-NC 4.0**  
-You may share and adapt with attribution — but commercial use is prohibited  
+You may share and adapt with attribution - but commercial use is prohibited  
 🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
 
 ---

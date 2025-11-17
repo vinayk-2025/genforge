@@ -1,13 +1,13 @@
 ---
-title: "Glossary – Existing AI Concepts"
+title: ""Glossary - Existing AI Concepts""
 description: "Foundational terminology for GenAI, LLMs, neural networks, and core machine learning techniques"
-author: Satya Prakash Nigam
+author: "Satya Prakash Nigam"
 tags: [GenAI, LLM, NLP, Deep Learning, Neural Networks, AI Glossary]
 layout: post
 permalink: /glossary/glossary-existing-concepts/
 ---
 
-# Glossary – Existing AI Concepts
+# Glossary - Existing AI Concepts
 **Reference for Lecture 3B and 4A**
 
 This glossary defines foundational concepts in artificial intelligence and machine learning. These terms support your understanding of GenAI systems, model architecture, and training workflows.

@@ -1,13 +1,13 @@
 ---
-title: "Phase 1 — Environment Setup README"
+title: ""Phase 1 - Environment Setup README""
 description: "Overview and objectives for Phase 1 environment setup labs"
-author: Satya Prakash Nigam
+author: "Satya Prakash Nigam"
 tags: [GenAI, Environment Setup, Installation, Checklist, Reproducibility]
 layout: post
 permalink: /labs/lab-1/phase-1-checklists/readme/
 ---
 
-# 🛠️ Phase 1 — Environment Setup
+# 🛠️ Phase 1 - Environment Setup
 📅 **Date**: 17-11-2025  
 👨‍🏫 Curated by: Satya Prakash Nigam  
 
@@ -26,7 +26,7 @@ By completing this phase, students will:
 ## 📂 Structure
 This folder contains individual installation checklists and a master checklist:
 
-- [00-master-installation-checklist.md](./00-master-installation-checklist.md) — consolidated view of all tasks  
+- [00-master-installation-checklist.md](./00-master-installation-checklist.md) - consolidated view of all tasks  
 - [python-installation-checklist.md](./python-installation-checklist.md)  
 - [nodejs-installation-checklist.md](./nodejs-installation-checklist.md)  
 - [notepad-git-installation-checklist.md](./notepad-git-installation-checklist.md)  
@@ -67,7 +67,7 @@ This folder contains individual installation checklists and a master checklist:
 
 ## 📜 License
 This README is licensed under **CC BY-NC 4.0**  
-You may share and adapt with attribution — but commercial use is prohibited  
+You may share and adapt with attribution - but commercial use is prohibited  
 🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
 
 ---

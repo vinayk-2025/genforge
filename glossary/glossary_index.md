@@ -1,6 +1,6 @@
 ---
-title: "Glossary Index - GenAI and Agentic Systems"
-author: Satya Prakash Nigam
+title: ""Glossary Index - GenAI and Agentic Systems""
+author: "Satya Prakash Nigam"
 course: "GenAI and Agentic Systems (Value-Added Series)"
 institution: "BMS College of Engineering, Bengaluru"
 license: "CC BY-NC 4.0"

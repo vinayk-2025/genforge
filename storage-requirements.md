@@ -1,6 +1,6 @@
 ---
-title: Storage Requirements for GenAI Agentic Course
-author: Satya Prakash Nigam
+title: "Storage Requirements for GenAI Agentic Course"
+author: "Satya Prakash Nigam"
 layout: post
 permalink: /storage-requirements/
 ---

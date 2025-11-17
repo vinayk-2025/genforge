@@ -1,11 +1,11 @@
 ---
-title: "Day 01: Quiz on Foundations, Orientation & Environment Setup"
-author: "Satya Prakash Nigam"
+title: ""Day 01: Quiz on Foundations, Orientation & Environment Setup""
+author: ""Satya Prakash Nigam""
 layout: post
 permalink: /quizzes/day01-quiz/
 ---
 
-# Quiz: Lecture 01 — Foundations, Orientation & Environment Setup
+# Quiz: Lecture 01 - Foundations, Orientation & Environment Setup
 
 > Choose the most appropriate answer for each question. Only one option is correct.
 
@@ -163,5 +163,5 @@ Independent AI Consultant · Fractional CTO · Product Architect · Technical En
 💻 GitHub: [github.com/satya25](https://github.com/satya25)  
 🤖 Hugging Face: [huggingface.co/satya25](https://huggingface.co/satya25)
 
-**GenForge — Forging the future of agentic AI**  
+**GenForge - Forging the future of agentic AI**  
 _Last updated: November 2025_

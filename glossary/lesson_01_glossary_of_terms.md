@@ -1,13 +1,13 @@
 ---
-title: Lesson 01 – Glossary of Terms 
+title: "Lesson 01 - Glossary of Terms "
 description: "Key terms for understanding the basics of GenAI and lesson 1"
-author: Satya Prakash Nigam
+author: "Satya Prakash Nigam"
 tags: [AI Ethics, Licensing, Bias, XAI, Value Alignment, Adversarial Robustness, CC BY-NC]
 layout: post
 permalink: /glossary/glossary-licensing-and-ethics/
 ---
 
-# Lesson 01 – Glossary of Terms  
+# Lesson 01 - Glossary of Terms  
 **Orientation & Environment Setup**
 
 This glossary defines key terms introduced in Lecture 01. These terms support your understanding of GenAI workflows, tooling, and professional habits. Use this as a reference throughout the course.
@@ -33,7 +33,7 @@ This glossary defines key terms introduced in Lecture 01. These terms support yo
 | Gemini CLI                   | A command-line interface for interacting with Google's Gemini models        |
 | Prompt Delivery Workflow     | Method used to send prompts to GenAI models (Web UI, CLI, Python, API)      |
 | Web UI                       | A browser-based interface for interacting with GenAI models                 |
-| CLI                          | Command Line Interface — used to run shell commands and scripts             |
+| CLI                          | Command Line Interface - used to run shell commands and scripts             |
 | Python API                   | A way to send prompts using Python code and HTTP requests                   |
 | GitHub                       | A platform for hosting code and collaborating with others                   |
 | GitHub Pages                 | A service for hosting static websites from GitHub repositories              |

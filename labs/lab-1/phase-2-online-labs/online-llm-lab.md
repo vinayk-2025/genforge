@@ -1,14 +1,14 @@
 ---
-title: "Online LLM Lab: Comparative Prompting Across Domains"
+title: ""Online LLM Lab: Comparative Prompting Across Domains""
 description: "Lab to experiment with multiple online LLMs across text, image, and code generation domains"
-author: Satya Prakash Nigam
+author: "Satya Prakash Nigam"
 tags: [GenAI, Online Labs, LLM, Text Generation, Image Generation, Code Generation, Prompt Engineering]
 layout: post
 permalink: /labs/lab-1/phase-2-online-labs/online-llm-lab/
 ---
 
 # 🧪 Online LLM Lab: Comparative Prompting Across Domains
-This lab enables students to experiment with multiple online LLMs across three key domains — **Text Generation**, **Image Generation**, and **Code Generation**. Each model listed below supports free‑tier access with Gmail or personal email registration and allows at least **50 prompts per day**.
+This lab enables students to experiment with multiple online LLMs across three key domains - **Text Generation**, **Image Generation**, and **Code Generation**. Each model listed below supports free‑tier access with Gmail or personal email registration and allows at least **50 prompts per day**.
 
 ---
 
@@ -30,7 +30,7 @@ This lab enables students to experiment with multiple online LLMs across three k
 |------------------|-------------|-------|
 | **Leonardo.Ai** | [leonardo.ai](https://leonardo.ai) | Free tier; Gmail login; ~150 daily tokens |
 | **Mage.Space** | [mage.space](https://www.mage.space) | No login required; unlimited generation |
-| **Playground AI** | [playgroundai.com](https://playgroundai.com) | Gmail login; ~50–100 prompts/day |
+| **Playground AI** | [playgroundai.com](https://playgroundai.com) | Gmail login; ~50-100 prompts/day |
 | **Bing Image Creator** | [bing.com/create](https://www.bing.com/create) | Powered by DALL·E; free with Microsoft/Gmail login |
 | **Raphael AI** | [raphael.app](https://www.raphael.app) | No login required; unlimited usage |
 
@@ -76,7 +76,7 @@ This lab enables students to experiment with multiple online LLMs across three k
 
 ## License
 This lab is licensed under **CC BY-NC 4.0**  
-You may share and adapt with attribution — but commercial use is prohibited  
+You may share and adapt with attribution - but commercial use is prohibited  
 🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
 
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Student Notes — Day 01: Foundations, Orientation & Environment Setup"
-author: "Satya Prakash Nigam"
+title: ""Student Notes - Day 01: Foundations, Orientation & Environment Setup""
+author: ""Satya Prakash Nigam""
 layout: post
 permalink: /student-notes/day01/
 ---
 
-# Generative AI, Prompt Engineering & Agentic Systems — Student Notes  
+# Generative AI, Prompt Engineering & Agentic Systems - Student Notes  
 **Day 01 / Lecture 01: Foundations, Orientation & Environment Setup**
 
 ---
 
 ## 🔶 Scope of This Session
 
-This first session introduces the GenForge course. You’ll explore:
+This first session introduces the GenForge course. You'll explore:
 
 - Core distinctions between GenAI and traditional AI  
 - What makes an AI agentic  
@@ -145,11 +145,11 @@ By the end of this session, you should be able to:
 
 ## 📌 Summary
 
-- You’ve understood the foundations of GenAI and agentic AI  
+- You've understood the foundations of GenAI and agentic AI  
 - Your local environment is validated and ready for experimentation  
-- You’ve practiced prompt engineering styles and delivery workflows  
-- You’ve deployed and documented your first GenAI app  
-- You’ve begun cultivating reproducible, professional habits for agentic workflows  
+- You've practiced prompt engineering styles and delivery workflows  
+- You've deployed and documented your first GenAI app  
+- You've begun cultivating reproducible, professional habits for agentic workflows  
 
 ---
 
@@ -174,5 +174,5 @@ Independent AI Consultant · Fractional CTO · Product Architect · Technical En
 💻 GitHub: [github.com/satya25](https://github.com/satya25)  
 🤗 Hugging Face: [huggingface.co/satya25](https://huggingface.co/satya25)  
 
-**GenForge — Forging the future of agentic AI**  
+**GenForge - Forging the future of agentic AI**  
 _Last updated: November 2025_

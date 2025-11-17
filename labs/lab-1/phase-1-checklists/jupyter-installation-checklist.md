@@ -1,15 +1,15 @@
 
 ---
-title: "Jupyter Installation Checklist"
+title: ""Jupyter Installation Checklist""
 description: "Guide to install and launch Jupyter Notebook and Jupyter Lab for GenAI experimentation"
-author: Satya Prakash Nigam
+author: "Satya Prakash Nigam"
 tags: [GenAI, Environment Setup, Jupyter, Notebook, Lab, Installation]
 layout: post
 permalink: /labs/lab-1/phase-1-checklists/jupyter-installation-checklist/
 ---
 
 # 📓 Jupyter Installation Checklist
-This guide helps you install and launch Jupyter Notebook and Jupyter Lab — essential tools for GenAI experimentation, evaluation pipelines, and capstone workflows.
+This guide helps you install and launch Jupyter Notebook and Jupyter Lab - essential tools for GenAI experimentation, evaluation pipelines, and capstone workflows.
 
 ---
 
@@ -81,7 +81,7 @@ Jupyter is working!
 
 ## License
 This checklist is licensed under **CC BY-NC 4.0**  
-You may share and adapt with attribution — but commercial use is prohibited  
+You may share and adapt with attribution - but commercial use is prohibited  
 🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
 
 ---

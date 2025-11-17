@@ -1,7 +1,7 @@
 ---
-title: "Online Registrations Guide"
+title: ""Online Registrations Guide""
 description: "Guide to register for free GenAI tools, deployment platforms, and open-source ecosystems"
-author: Satya Prakash Nigam
+author: "Satya Prakash Nigam"
 tags: [GenAI, Online Labs, Registration, Accounts, Open Source, Ecosystems]
 layout: post
 permalink: /labs/lab-1/phase-2-online-labs/online-registrations/
@@ -66,7 +66,7 @@ To access GenAI tools and deployment platforms, students must register on the fo
 
 ## License
 This guide is licensed under **CC BY-NC 4.0**  
-You may share and adapt with attribution — but commercial use is prohibited  
+You may share and adapt with attribution - but commercial use is prohibited  
 🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
 
 ---

@@ -1,7 +1,7 @@
 
 ---
-title: "GenForge — Course Landing Page"
-author: Satya Prakash Nigam
+title: ""GenForge - Course Landing Page""
+author: "Satya Prakash Nigam"
 layout: post
 permalink: /
 tags: [GenAI, Agentic AI, Prompt Engineering, Course Overview]

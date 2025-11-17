@@ -1,7 +1,7 @@
 ---
-title: "00 Master Online Labs Checklist"
+title: ""00 Master Online Labs Checklist""
 description: "Master checklist for Phase 2 online labs exploring GenAI tools via free web interfaces"
-author: Satya Prakash Nigam
+author: "Satya Prakash Nigam"
 tags: [GenAI, Online Labs, Phase 2, Checklist, Web Interfaces]
 layout: post
 permalink: /labs/lab-1/phase-2-online-labs/00-master-online-labs/
@@ -50,7 +50,7 @@ This master checklist provides a structured entry point into **Phase 2 online 
 
 ## License
 This checklist is licensed under **CC BY-NC 4.0**  
-You may share and adapt with attribution — but commercial use is prohibited  
+You may share and adapt with attribution - but commercial use is prohibited  
 🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
 
 ---

@@ -1,7 +1,7 @@
 
 ---
-title: About This Course
-author: Satya Prakash Nigam
+title: "About This Course"
+author: "Satya Prakash Nigam"
 layout: post
 permalink: /about-this-course/
 ---
@@ -89,7 +89,7 @@ pip install streamlit langchain transformers huggingface_hub pandas matplotlib s
 pip install sentence-transformers chromadb openai tiktoken
 ```
 
-> Note: `openai` is used only for local simulation with dummy keys — no paid API access required.
+> Note: `openai` is used only for local simulation with dummy keys - no paid API access required.
 
 ---
 

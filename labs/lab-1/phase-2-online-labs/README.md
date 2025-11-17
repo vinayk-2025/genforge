@@ -1,7 +1,7 @@
 ---
-title: "Phase 2 Online Labs Overview"
+title: ""Phase 2 Online Labs Overview""
 description: "Introduction and roadmap for Phase 2 online labs exploring GenAI tools via free web interfaces"
-author: Satya Prakash Nigam
+author: "Satya Prakash Nigam"
 tags: [GenAI, Online Labs, Phase 2, Web Interfaces, Prompt Engineering]
 layout: post
 permalink: /labs/lab-1/phase-2-online-labs/
@@ -58,7 +58,7 @@ Phase-2 introduces students to **online GenAI platforms** that are free, browser
 
 ## License
 This guide is licensed under **CC BY-NC 4.0**  
-You may share and adapt with attribution — but commercial use is prohibited  
+You may share and adapt with attribution - but commercial use is prohibited  
 🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
 
 ---

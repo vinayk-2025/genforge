@@ -22,7 +22,7 @@ This guide walks you through installing XAMPP, verifying MySQL setup, and testin
 
 ---
 
-## ✅ Step 3: Create Test Script — `test-xampp.php`
+## ✅ Step 3: Create Test Script - `test-xampp.php`
 
 Place this file inside your `htdocs` folder (e.g., `C:\xampp\htdocs\test-xampp.php`):
 

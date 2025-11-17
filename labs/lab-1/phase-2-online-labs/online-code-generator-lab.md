@@ -1,7 +1,7 @@
 ---
-title: "Online Code Generator Lab"
+title: ""Online Code Generator Lab""
 description: "Lab to explore browser-based code generation platforms, compare outputs, and reflect on usability"
-author: Satya Prakash Nigam
+author: "Satya Prakash Nigam"
 tags: [GenAI, Online Labs, Code Generation, Prompt Engineering, Evaluation]
 layout: post
 permalink: /labs/lab-1/phase-2-online-labs/online-code-generator-lab/
@@ -56,7 +56,7 @@ This lab introduces students to free, browser‑based code generation tools. Eac
 
 ## License
 This lab is licensed under **CC BY-NC 4.0**  
-You may share and adapt with attribution — but commercial use is prohibited  
+You may share and adapt with attribution - but commercial use is prohibited  
 🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
 
 ---

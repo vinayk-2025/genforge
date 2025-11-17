@@ -1,7 +1,7 @@
 ---
-title: "Online Image Generator Lab"
+title: ""Online Image Generator Lab""
 description: "Lab to explore free web-based image generation platforms, compare outputs, and reflect on usability"
-author: Satya Prakash Nigam
+author: "Satya Prakash Nigam"
 tags: [GenAI, Online Labs, Image Generation, Prompt Engineering, Multimodal]
 layout: post
 permalink: /labs/lab-1/phase-2-online-labs/online-image-generator-lab/
@@ -58,7 +58,7 @@ This lab introduces students to free, web‑based image generation platforms tha
 
 ## License
 This lab is licensed under **CC BY-NC 4.0**  
-You may share and adapt with attribution — but commercial use is prohibited  
+You may share and adapt with attribution - but commercial use is prohibited  
 🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
 
 ---

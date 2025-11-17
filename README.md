@@ -1,12 +1,12 @@
  
 ---
-title: GenForge — GenAI & Agentic AI Course Repository
-author: Satya Prakash Nigam
+title: "GenForge - GenAI & Agentic AI Course Repository"
+author: "Satya Prakash Nigam"
 layout: post
 permalink: /
 ---
 
-# 🔥 GenForge — GenAI, Agentic AI & Prompt Engineering
+# 🔥 GenForge - GenAI, Agentic AI & Prompt Engineering
 
 Welcome to **GenForge**, the flagship repository of [AI Alchemy Hub](https://aialchemyhub.in).  
 This course empowers learners to **forge reproducible GenAI workflows**, master **prompt engineering**, and design **agentic AI systems** with professional rigour.
@@ -15,7 +15,7 @@ Curated and delivered by **Satya Prakash Nigam**, Independent AI Consultant · F
 
 ---
 
-## 🎯 What You’ll Learn
+## 🎯 What You'll Learn
 
 - Generative AI fundamentals and reproducible workflows  
 - Prompt engineering strategies (zero-shot, few-shot, CoT, role-based)  

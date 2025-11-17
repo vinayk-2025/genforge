@@ -1,14 +1,14 @@
  
 ---
-title: "Phase 1 — Debugging Installation Issues"
+title: ""Phase 1 - Debugging Installation Issues""
 description: "Troubleshooting guide for common environment setup problems in Phase 1"
-author: Satya Prakash Nigam
+author: "Satya Prakash Nigam"
 tags: [GenAI, Environment Setup, Debugging, Troubleshooting, PATH, Installation]
 layout: post
 permalink: /labs/lab-1/phase-1-checklists/debugging/
 ---
 
-# 🐞 Phase 1 — Debugging Installation Issues
+# 🐞 Phase 1 - Debugging Installation Issues
 📅 **Date**: 17-11-2025  
 👨‍🏫 Curated by: Satya Prakash Nigam  
 
@@ -86,7 +86,7 @@ Verify with `git config --list`.
 
 ## License
 This guide is licensed under **CC BY-NC 4.0**  
-You may share and adapt with attribution — but commercial use is prohibited  
+You may share and adapt with attribution - but commercial use is prohibited  
 🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
 
 ---

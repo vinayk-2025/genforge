@@ -1,13 +1,13 @@
 ---
-title: "Glossary – Agentic AI vs Autonomous Systems"
+title: ""Glossary - Agentic AI vs Autonomous Systems""
 description: "Clarifying the distinction between agentic behaviour and full autonomy in AI systems"
-author: Satya Prakash Nigam
+author: "Satya Prakash Nigam"
 tags: [Agentic AI, Autonomous Systems, AI Agents, Multi-Agent Systems, Autonomy, Decision-Making]
 layout: post
 permalink: /glossary/glossary-agentic-vs-autonomous/
 ---
 
-# Glossary – Agentic AI vs Autonomous Systems
+# Glossary - Agentic AI vs Autonomous Systems
 **Reference for Lecture 3A and 4B**
 
 This glossary clarifies the distinction between agentic AI and autonomous systems. It supports student understanding of how goal-driven agents evolve into systems capable of sustained, independent operation.
@@ -41,7 +41,7 @@ This glossary clarifies the distinction between agentic AI and autonomous system
 
 ## Student Reflection Prompts
 
-- What makes an AI system “agentic” even if it’s not fully autonomous?
+- What makes an AI system “agentic” even if it's not fully autonomous?
 - How do multi-agent systems contribute to emergent autonomy?
 - Where do you draw the line between tool-using agents and autonomous systems?
 - What are the risks of deploying autonomous systems without explainability?
@@ -51,7 +51,7 @@ This glossary clarifies the distinction between agentic AI and autonomous system
 
 ## Instructor Notes
 
-Use this glossary to scaffold Lecture 3A’s conceptual arc and Lecture 4B’s discussion on safety and autonomy. Encourage students to compare agentic workflows (e.g., tool-calling LLMs) with real-world autonomous systems (e.g., drones, robots, vehicles).
+Use this glossary to scaffold Lecture 3A's conceptual arc and Lecture 4B's discussion on safety and autonomy. Encourage students to compare agentic workflows (e.g., tool-calling LLMs) with real-world autonomous systems (e.g., drones, robots, vehicles).
 
 ---
 

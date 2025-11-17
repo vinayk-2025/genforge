@@ -1,6 +1,6 @@
 ---
-title: About the Instructor — Satya Prakash Nigam
-author: Satya Prakash Nigam
+title: "About the Instructor - Satya Prakash Nigam"
+author: "Satya Prakash Nigam"
 layout: post
 permalink: /about-me/
 ---
@@ -13,7 +13,7 @@ Independent AI Consultant · Fractional CTO · Product Architect · Technical En
 
 ## Professional Summary
 
-I am a strategic technologist with 28+ years across enterprise, consulting, and entrepreneurship. My current focus is **Generative AI**, **agentic systems**, and **modular curriculum design** — building reproducible, production-grade AI workflows tailored to industry and academic needs.
+I am a strategic technologist with 28+ years across enterprise, consulting, and entrepreneurship. My current focus is **Generative AI**, **agentic systems**, and **modular curriculum design** - building reproducible, production-grade AI workflows tailored to industry and academic needs.
 
 ---
 
@@ -40,7 +40,7 @@ I am a strategic technologist with 28+ years across enterprise, consulting, and 
 
 ## Professional Experience 💼
 
-### AI Consulting & Product Engineering (2015–Present)
+### AI Consulting & Product Engineering (2015-Present)
 - Designed GenAI apps for healthcare, recruitment, and FinTech  
 - Delivered 3‑tier web platforms for clients including Synechron, SwediumGlobal, GapBlue, RDL, Ottru, McWare  
 - Built workflow systems with XAMPP/MariaDB, and CI‑integrated automation frameworks  
@@ -48,20 +48,20 @@ I am a strategic technologist with 28+ years across enterprise, consulting, and 
 - Architected secure, multi‑tenant ERP and healthcare platforms  
 
 ### Prior Roles
-- **Avalara (2014–2015)**: Senior PHP Developer — ticketing, asset management, test data frameworks  
-- **Yahoo! (2011–2012)**: Principal Engineer — ad exchange system testing, automation frameworks  
-- **Novell (2006–2009)**: Engineering Manager — NetWare/OES/ZLM testing, Agile adoption, QE frameworks  
-- **Microsoft (2004–2006)**: Engineering Manager — Windows Service Pack testing, PERL automation, multilingual reliability  
-- **Entrepreneur (2009–2011)**: Founded software firm, delivered healthcare/PR apps, architected TALMS  
+- **Avalara (2014-2015)**: Senior PHP Developer - ticketing, asset management, test data frameworks  
+- **Yahoo! (2011-2012)**: Principal Engineer - ad exchange system testing, automation frameworks  
+- **Novell (2006-2009)**: Engineering Manager - NetWare/OES/ZLM testing, Agile adoption, QE frameworks  
+- **Microsoft (2004-2006)**: Engineering Manager - Windows Service Pack testing, PERL automation, multilingual reliability  
+- **Entrepreneur (2009-2011)**: Founded software firm, delivered healthcare/PR apps, architected TALMS  
 - **Earlier Career (Pre‑2004)**: Led testing teams, built automation frameworks, implemented ISO 9001 processes  
 
 ---
 
 ## Education & Achievements 🎓
 
-- **B.E. (Electronics)** — SGSITS, Indore, India  
+- **B.E. (Electronics)** - SGSITS, Indore, India  
 - Agile Methodologies (Yahoo, Novell)  
-- Performance Awards — Tektronix, Novell, Yahoo, Avalara  
+- Performance Awards - Tektronix, Novell, Yahoo, Avalara  
 - Certified Yoga Instructor, Chess Champion (IIT Roorkee), Hindustani classical vocalist & theater performer  
 
 ---

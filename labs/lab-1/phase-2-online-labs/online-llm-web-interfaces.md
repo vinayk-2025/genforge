@@ -1,7 +1,7 @@
 ---
-title: "Online LLM Web Interfaces (Free Tier Access)"
+title: ""Online LLM Web Interfaces (Free Tier Access)""
 description: "Guide to explore free-tier online LLM platforms with Gmail or open access registration"
-author: Satya Prakash Nigam
+author: "Satya Prakash Nigam"
 tags: [GenAI, Online Labs, LLM, Web Interfaces, Prompt Engineering]
 layout: post
 permalink: /labs/lab-1/phase-2-online-labs/online-llm-web-interfaces/
@@ -63,7 +63,7 @@ This guide lists recommended online LLM platforms that support free‑tier acces
 
 ## License
 This lab is licensed under **CC BY-NC 4.0**  
-You may share and adapt with attribution — but commercial use is prohibited  
+You may share and adapt with attribution - but commercial use is prohibited  
 🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
 
 ---

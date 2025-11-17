@@ -1,13 +1,13 @@
 ---
-title: "Glossary – Evolution of AI to Agentic Systems"
+title: ""Glossary - Evolution of AI to Agentic Systems""
 description: "Conceptual arc from symbolic AI to GenAI, Agentic AI, and emerging autonomous systems"
-author: Satya Prakash Nigam
+author: "Satya Prakash Nigam"
 tags: [AI, GenAI, Agentic AI, Autonomous Systems, AGI, Evolution]
 layout: post
 permalink: /glossary/glossary-evolution/
 ---
 
-# Glossary – Evolution of AI to Agentic Systems
+# Glossary - Evolution of AI to Agentic Systems
 **Conceptual Arc for Lecture 3A and 3B**
 
 This glossary traces the evolution of artificial intelligence from symbolic systems to agentic autonomy. It supports conceptual clarity before diving into model architectures, prompting strategies, and orchestration workflows.
@@ -41,7 +41,7 @@ This glossary traces the evolution of artificial intelligence from symbolic syst
 | Transformer Architecture | Model design enabling parallelism and long-range dependencies              |
 | Pretraining              | Initial training on broad data to learn general patterns                   |
 | Fine-tuning              | Adapting pretrained models to specific tasks or domains                    |
-| RLHF                     | Reinforcement Learning from Human Feedback — aligns models with human preferences |
+| RLHF                     | Reinforcement Learning from Human Feedback - aligns models with human preferences |
 | Emergent Behaviours      | Capabilities that arise unexpectedly as model scale increases              |
 | Scaling Laws             | Predictive relationships between model size and performance                |
 | Multimodal AI            | AI systems integrating text, image, audio, and video inputs                |

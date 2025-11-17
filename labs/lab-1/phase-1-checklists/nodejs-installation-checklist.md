@@ -1,8 +1,8 @@
 
 ---
-title: "Node.js Installation Checklist (for Gemini CLI)"
+title: ""Node.js Installation Checklist (for Gemini CLI)""
 description: "Guide to install Node.js, verify setup, and prepare environment for Gemini CLI usage"
-author: Satya Prakash Nigam
+author: "Satya Prakash Nigam"
 tags: [GenAI, Environment Setup, Node.js, npm, Gemini CLI, Installation]
 layout: post
 permalink: /labs/lab-1/phase-1-checklists/nodejs-installation-checklist/
@@ -86,7 +86,7 @@ The capital of Karnataka is Bengaluru.
 
 ## License
 This checklist is licensed under **CC BY-NC 4.0**  
-You may share and adapt with attribution — but commercial use is prohibited  
+You may share and adapt with attribution - but commercial use is prohibited  
 🔗 [License Details](https://creativecommons.org/licenses/by-nc/4.0)
 
 ---
