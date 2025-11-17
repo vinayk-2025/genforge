@@ -1,8 +1,15 @@
-# Site configuration for GenForge (Jekyll + just-the-docs theme)
+# Site configuration for GenForge (Jekyll + just-the-docs via GitHub Pages)
 
 title: "GenForge — GenAI & Agentic AI Course"
 description: "Official repository for GenForge — Value-Added Course on Generative AI, Agentic AI & Prompt Engineering"
-theme: just-the-docs
+repository_url: https://github.com/satya25/genforge
+remote_theme: just-the-docs/just-the-docs
+
+search_enabled: true
+color_scheme: auto
+
+plugins:
+  - jekyll-remote-theme
 
 navigation:
   - title: Home
