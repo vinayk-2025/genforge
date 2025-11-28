@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+
+# Virtual environments
+venv/
+.env/
+
+# Streamlit
+.streamlit/
+
+# Data & results
+logs/
+reports/
+datasets/
+results/
+models/

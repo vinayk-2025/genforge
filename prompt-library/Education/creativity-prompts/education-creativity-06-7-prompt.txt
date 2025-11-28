@@ -1,0 +1,7 @@
+# Education Creativity Prompt 06
+## Title
+Chained Creative Tools
+## Prompt
+First list creative tools used in classrooms. Then expand each tool into a possible student activity.
+## Template Reference
+Uses Template 7: Prompt Chaining

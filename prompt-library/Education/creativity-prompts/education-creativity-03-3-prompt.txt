@@ -1,0 +1,7 @@
+# Education Creativity Prompt 03
+## Title
+Creative Assignment Expansion
+## Prompt
+Here are three examples of creative assignments: (1) design a comic strip, (2) build a model, (3) write a short play. Suggest a fourth assignment that continues the pattern.
+## Template Reference
+Uses Template 3: Few-Shot Prompting

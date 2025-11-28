@@ -1,0 +1,7 @@
+# Education Creativity Prompt 08
+## Title
+Idea + Critique
+## Prompt
+Propose a creative classroom idea, then critique its strengths and weaknesses.
+## Template Reference
+Uses Template 11: Reflexive Prompting

@@ -1,0 +1,7 @@
+# Education Creativity Prompt 05
+## Title
+Branching Ideas for History Class
+## Prompt
+Brainstorm multiple creative approaches to teaching history. Explore different branches of ideas before choosing one.
+## Template Reference
+Uses Template 6: Tree-of-Thought

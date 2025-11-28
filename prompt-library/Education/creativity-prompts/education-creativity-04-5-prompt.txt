@@ -1,0 +1,7 @@
+# Education Creativity Prompt 04
+## Title
+Role-Play as a Creative Teacher
+## Prompt
+Act as a teacher designing a creativity workshop for students. Outline the activities and goals.
+## Template Reference
+Uses Template 5: Role-Playing

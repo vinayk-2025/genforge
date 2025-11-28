@@ -1,0 +1,7 @@
+# Education Creativity Prompt 02
+## Title
+Step-by-Step Creative Group Work
+## Prompt
+Explain step by step how creativity can be fostered in group projects among students.
+## Template Reference
+Uses Template 2: Chain-of-Thought

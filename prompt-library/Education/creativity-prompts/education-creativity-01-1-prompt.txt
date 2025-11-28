@@ -1,0 +1,7 @@
+# Education Creativity Prompt 01
+## Title
+Future Classroom Imagination
+## Prompt
+Imagine a classroom 50 years from now. Describe its creative features, tools, and teaching methods.
+## Template Reference
+Uses Template 1: Zero-Shot Prompting

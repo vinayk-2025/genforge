@@ -1,0 +1,7 @@
+# Education Creativity Prompt 10
+## Title
+Exploring Homework Alternatives
+## Prompt
+Generate diverse ideas for creative homework alternatives that encourage imagination instead of repetition.
+## Template Reference
+Uses Template 23: Exploratory Prompting

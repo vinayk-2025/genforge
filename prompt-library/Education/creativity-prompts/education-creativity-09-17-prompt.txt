@@ -1,0 +1,7 @@
+# Education Creativity Prompt 09
+## Title
+Creativity as Gardening
+## Prompt
+Explain creativity in education using an analogy with gardening. Highlight planting, nurturing, and growth.
+## Template Reference
+Uses Template 17: Analogical Prompting

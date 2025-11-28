@@ -1,0 +1,7 @@
+# Education Creativity Prompt 07
+## Title
+Text + Visual Creativity
+## Prompt
+Design a creative learning poster that combines text and visuals to explain a science concept.
+## Template Reference
+Uses Template 9: Multi-Modal Prompting
